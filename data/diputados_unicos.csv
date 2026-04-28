@@ -1,0 +1,1134 @@
+id_diputado,nombre,apellido,nombre_completo,genero,distritos,cantidad_distritos,cantidad_bloques,fecha_inicio,fecha_fin
+hcdn0011,dulce,granados,dulce granados,f,buenos aires,1,1,2009-12-10,2017-12-09
+hcdn0014,marcelo eduardo,lopez arias,marcelo eduardo lopez arias,m,salta,1,3,2007-12-10,2011-12-09
+hcdn0019,mabel hilda,müller,mabel hilda müller,f,buenos aires,1,2,2009-12-10,2013-12-09
+hcdn0022,miguel angel,pichetto,miguel angel pichetto,m,buenos aires,1,3,2023-12-10,2027-12-09
+hcdn0035,mario raul,negri,mario raul negri,m,cordoba,1,1,2011-12-10,2023-12-09
+hcdn0041,silvia beatriz,vazquez,silvia beatriz vazquez,f,buenos aires,1,2,2007-12-10,2011-12-09
+hcdn0055,sergio,acevedo,sergio acevedo,m,santa cruz,1,2,2021-12-10,2025-12-09
+hcdn0061,alfredo nestor,atanasof,alfredo nestor atanasof,m,buenos aires,1,2,2009-12-10,2013-12-09
+hcdn0079,elisa maria avelina,carrio,elisa maria avelina carrio,f,ciudad de buenos aires,1,3,2009-12-10,2021-12-09
+hcdn0083,mario,das neves,mario das neves,m,chubut,1,1,2013-12-10,2017-12-09
+hcdn0096,nilda celia,garre,nilda celia garre,f,ciudad de buenos aires,1,1,2015-12-10,2019-12-09
+hcdn0132,carlos,raimundi,carlos raimundi,m,buenos aires,1,4,2011-12-10,2015-12-09
+hcdn0163,cesar alfredo,albrisi,cesar alfredo albrisi,m,cordoba,1,2,2007-12-10,2011-12-09
+hcdn0173,graciela,camaño,graciela camaño,f,buenos aires,1,7,2007-12-10,2023-12-09
+hcdn0181,diana beatriz,conti,diana beatriz conti,f,buenos aires,1,1,2009-12-10,2017-12-09
+hcdn0230,adriana victoria,puiggros,adriana victoria puiggros,f,buenos aires,1,1,2007-12-10,2015-12-09
+hcdn0235,jorge,rivas,jorge rivas,m,buenos aires,1,3,2007-12-10,2015-12-09
+hcdn0238,eduardo,santin,eduardo santin,m,buenos aires,1,2,2011-12-10,2015-12-09
+hcdn0240,daniel,scioli,daniel scioli,m,buenos aires,1,2,2017-12-10,2021-12-09
+hcdn0244,margarita rosa,stolbizer,margarita rosa stolbizer,f,buenos aires,1,1,2009-12-10,2017-12-09
+hcdn0298,jose luis,gioja,jose luis gioja,m,san juan,1,2,2015-12-10,2023-12-09
+hcdn0303,leopoldo raul guido,moreau,leopoldo raul guido moreau,m,buenos aires,1,3,2017-12-10,2025-12-09
+hcdn0313,jorge raul,yoma,jorge raul yoma,m,la rioja,1,2,2009-12-10,2013-12-09
+hcdn0381,ricardo rodolfo,gil lavedra,ricardo rodolfo gil lavedra,m,ciudad de buenos aires,1,1,2009-12-10,2013-12-09
+hcdn0403,franco agustin,caviglia,franco agustin caviglia,m,buenos aires,1,1,2013-12-10,2017-12-09
+hcdn0409,zulema beatriz,daher,zulema beatriz daher,f,salta,1,3,2007-12-10,2011-12-09
+hcdn0412,jose maria,diaz bancalari,jose maria diaz bancalari,m,buenos aires,1,1,2007-12-10,2015-12-09
+hcdn0426,graciela maria,giannettasio,graciela maria giannettasio,f,buenos aires,1,1,2007-12-10,2015-12-09
+hcdn0427,miguel angel,giubergia,miguel angel giubergia,m,jujuy,1,1,2007-12-10,2015-12-09
+hcdn0440,eduardo gabriel,macaluse,eduardo gabriel macaluse,m,buenos aires,1,6,2007-12-10,2011-12-09
+hcdn0453,jorge alberto,obeid,jorge alberto obeid,m,santa fe,1,3,2007-12-10,2017-12-09
+hcdn0454,graciela,ocaña,graciela ocaña,f,buenos aires,1,2,2011-12-10,2025-12-09
+hcdn0462,federico ramon,puerta,federico ramon puerta,m,misiones,1,2,2009-12-10,2013-12-09
+hcdn0463,elsa siria,quiroz,elsa siria quiroz,f,buenos aires,1,2,2007-12-10,2011-12-09
+hcdn0509,patricia,bullrich,patricia bullrich,f,ciudad de buenos aires,1,4,2007-12-10,2015-12-09
+hcdn0513,luis bernardo,lusquiños,luis bernardo lusquiños,m,san luis,1,1,2013-12-10,2017-12-09
+hcdn0530,hernan,lombardi,hernan lombardi,m,buenos aires,1,1,2021-12-10,2025-12-09
+hcdn0543,mabel luisa,caparros,mabel luisa caparros,f,tierra del fuego,1,1,2019-12-10,2023-12-09
+hcdn0552,eduardo segundo,brizuela del moral,eduardo segundo brizuela del moral,m,catamarca,1,2,2013-12-10,2021-12-09
+hcdn0578,sergio ariel,basteiro,sergio ariel basteiro,m,buenos aires,1,3,2007-12-10,2011-12-09
+hcdn0581,rosana andrea,bertone,rosana andrea bertone,f,tierra del fuego,1,2,2009-12-10,2023-12-09
+hcdn0586,carlos ramon,brown,carlos ramon brown,m,buenos aires,1,2,2011-12-10,2015-12-09
+hcdn0594,luis francisco jorge,cigogna,luis francisco jorge cigogna,m,buenos aires,1,1,2009-12-10,2017-12-09
+hcdn0597,stella maris,cordoba,stella maris cordoba,f,tucuman,1,1,2009-12-10,2013-12-09
+hcdn0600,gustavo,cusinato,gustavo cusinato,m,entre rios,1,1,2007-12-10,2011-12-09
+hcdn0612,griselda noemi,herrera,griselda noemi herrera,f,la rioja,1,1,2011-12-10,2015-12-09
+hcdn0633,blanca ines,osuna,blanca ines osuna,f,entre rios,1,2,2019-12-10,2027-12-09
+hcdn0642,marcela virginia,rodriguez,marcela virginia rodriguez,f,buenos aires,1,2,2009-12-10,2013-12-09
+hcdn0646,juan,schiaretti,juan schiaretti,m,cordoba,1,2,2013-12-10,2029-12-09
+hcdn0648,julio rodolfo,solanas,julio rodolfo solanas,m,entre rios,1,1,2011-12-10,2019-12-09
+hcdn0656,andres,zottos,andres zottos,m,salta,1,1,2017-12-10,2021-12-09
+hcdn0660,vilma lidia,ibarra,vilma lidia ibarra,f,ciudad de buenos aires,1,3,2007-12-10,2011-12-09
+hcdn0668,jose ignacio,de mendiguren,jose ignacio de mendiguren,m,buenos aires,1,3,2013-12-10,2021-12-09
+hcdn0693,juan jose,alvarez,juan jose alvarez,m,buenos aires,1,3,2007-12-10,2011-12-09
+hcdn0698,jorge luciano,montoya,jorge luciano montoya,m,cordoba,1,4,2007-12-10,2011-12-09
+hcdn0703,julio,de vido,julio de vido,m,buenos aires,1,1,2015-12-10,2019-12-09
+hcdn0705,daniel,filmus,daniel filmus,m,ciudad de buenos aires,1,2,2017-12-10,2021-12-09
+hcdn0707,nestor carlos,kirchner,nestor carlos kirchner,m,buenos aires,1,1,2009-12-10,2013-12-09
+hcdn0720,luis gustavo,borsani,luis gustavo borsani,m,mendoza,1,1,2015-12-10,2019-12-09
+hcdn0722,carlos alberto,caserio,carlos alberto caserio,m,cordoba,1,1,2013-12-10,2017-12-09
+hcdn0726,alicia marcela,comelli,alicia marcela comelli,f,neuquen,1,1,2007-12-10,2015-12-09
+hcdn0732,maria graciela,de la rosa,maria graciela de la rosa,f,formosa,1,2,2007-12-10,2029-12-09
+hcdn0733,gumersindo federico,alonso,gumersindo federico alonso,m,cordoba,1,1,2009-12-10,2013-12-09
+hcdn0739,susana eladia,diaz,susana eladia diaz,f,tucuman,1,1,2007-12-10,2011-12-09
+hcdn0741,patricia susana,fadel,patricia susana fadel,f,mendoza,1,1,2007-12-10,2011-12-09
+hcdn0746,paulina esther,fiol,paulina esther fiol,f,santa fe,1,1,2007-12-10,2011-12-09
+hcdn0749,susana rosa,garcia,susana rosa garcia,f,santa fe,1,2,2007-12-10,2011-12-09
+hcdn0752,juan carlos,gioja,juan carlos gioja,m,san juan,1,1,2007-12-10,2011-12-09
+hcdn0754,silvana myriam,giudici,silvana myriam giudici,f,ciudad de buenos aires,1,1,2007-12-10,2011-12-09
+hcdn0755,ruperto eduardo,godoy,ruperto eduardo godoy,m,san juan,1,1,2007-12-10,2011-12-09
+hcdn0760,juan manuel,irrazabal,juan manuel irrazabal,m,misiones,1,1,2007-12-10,2011-12-09
+hcdn0768,gustavo angel,marconato,gustavo angel marconato,m,santa fe,1,1,2007-12-10,2011-12-09
+hcdn0770,julio cesar,martinez,julio cesar martinez,m,la rioja,1,1,2009-12-10,2017-12-09
+hcdn0774,jose ricardo,mongelo,jose ricardo mongelo,m,chaco,1,1,2011-12-10,2015-12-09
+hcdn0781,adrian,perez,adrian perez,m,buenos aires,1,3,2007-12-10,2017-12-09
+hcdn0783,hugo ruben,perie,hugo ruben perie,m,corrientes,1,1,2007-12-10,2011-12-09
+hcdn0785,federico,pinedo,federico pinedo,m,ciudad de buenos aires,1,3,2007-12-10,2015-12-09
+hcdn0788,cristian a.,ritondo,cristian a. ritondo,m,buenos aires,1,1,2019-12-10,2027-12-09
+hcdn0791,diego horacio,sartori,diego horacio sartori,m,misiones,1,1,2019-12-10,2023-12-09
+hcdn0792,juan carlos,sluga,juan carlos sluga,m,buenos aires,1,1,2007-12-10,2011-12-09
+hcdn0796,geronimo,vargas aignasse,geronimo vargas aignasse,m,tucuman,1,1,2007-12-10,2011-12-09
+hcdn0798,miguel luis,bonasso,miguel luis bonasso,m,ciudad de buenos aires,1,1,2007-12-10,2011-12-09
+hcdn0799,claudio raul,lozano,claudio raul lozano,m,ciudad de buenos aires,1,3,2007-12-10,2015-12-09
+hcdn0811,maria laura,leguizamon,maria laura leguizamon,f,buenos aires,1,1,2007-12-10,2011-12-09
+hcdn0818,claudio javier,poggi,claudio javier poggi,m,san luis,1,2,2015-12-10,2025-12-09
+hcdn0825,roberto fabian,rios,roberto fabian rios,m,corrientes,1,1,2011-12-10,2015-12-09
+hcdn0837,jorge alberto,landau,jorge alberto landau,m,buenos aires,1,1,2007-12-10,2015-12-09
+hcdn0841,jorge,taiana,jorge taiana,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn0845,oscar raul,aguad,oscar raul aguad,m,cordoba,1,1,2009-12-10,2017-12-09
+hcdn0846,maria cristina,alvarez rodriguez,maria cristina alvarez rodriguez,f,buenos aires,1,2,2015-12-10,2023-12-09
+hcdn0853,paula maria,bertol,paula maria bertol,f,ciudad de buenos aires,1,1,2009-12-10,2013-12-09
+hcdn0855,hermes juan,binner,hermes juan binner,m,santa fe,1,1,2013-12-10,2017-12-09
+hcdn0858,jose ricardo,brillo,jose ricardo brillo,m,neuquen,1,1,2009-12-10,2013-12-09
+hcdn0859,daniel agustin,brue,daniel agustin brue,m,santiago del estero,1,2,2009-12-10,2023-12-09
+hcdn0860,esteban jose,bullrich,esteban jose bullrich,m,ciudad de buenos aires,1,1,2009-12-10,2013-12-09
+hcdn0862,susana mercedes,canela,susana mercedes canela,f,salta,1,1,2011-12-10,2015-12-09
+hcdn0864,remo gerardo,carlotto,remo gerardo carlotto,m,buenos aires,1,2,2009-12-10,2017-12-09
+hcdn0867,genaro aurelio,collantes,genaro aurelio collantes,m,catamarca,1,1,2009-12-10,2013-12-09
+hcdn0870,alfredo victor,cornejo,alfredo victor cornejo,m,mendoza,1,1,2019-12-10,2023-12-09
+hcdn0871,omar,de marchi,omar de marchi,m,mendoza,1,2,2009-12-10,2023-12-09
+hcdn0872,francisco,de narvaez,francisco de narvaez,m,buenos aires,1,3,2009-12-10,2017-12-09
+hcdn0875,edgardo fernando,depetri,edgardo fernando depetri,m,buenos aires,1,1,2009-12-10,2017-12-09
+hcdn0876,juliana,di tullio,juliana di tullio,f,buenos aires,1,1,2009-12-10,2017-12-09
+hcdn0877,juan carlos,diaz roig,juan carlos diaz roig,m,formosa,1,1,2009-12-10,2017-12-09
+hcdn0879,margarita,ferra de bartol,margarita ferra de bartol,f,san juan,1,1,2009-12-10,2013-12-09
+hcdn0885,maria teresa,garcia,maria teresa garcia,f,buenos aires,1,2,2009-12-10,2029-12-09
+hcdn0887,daniel oscar,giacomino,daniel oscar giacomino,m,cordoba,1,1,2011-12-10,2015-12-09
+hcdn0895,daniel ricardo,kroneberger,daniel ricardo kroneberger,m,la pampa,1,1,2011-12-10,2019-12-09
+hcdn0896,carlos miguel,kunkel,carlos miguel kunkel,m,buenos aires,1,1,2009-12-10,2017-12-09
+hcdn0903,maria carolina,moises,maria carolina moises,f,jujuy,1,2,2015-12-10,2023-12-09
+hcdn0905,carlos julio,moreno,carlos julio moreno,m,buenos aires,1,1,2009-12-10,2017-12-09
+hcdn0906,cristian rodolfo,oliva,cristian rodolfo oliva,m,santiago del estero,1,1,2009-12-10,2017-12-09
+hcdn0910,hector pedro,recalde,hector pedro recalde,m,buenos aires,1,1,2009-12-10,2017-12-09
+hcdn0912,agustin oscar,rossi,agustin oscar rossi,m,santa fe,1,3,2009-12-10,2029-12-09
+hcdn0915,juan arturo,salim,juan arturo salim,m,tucuman,1,1,2009-12-10,2013-12-09
+hcdn0917,jorge emilio,sarghini,jorge emilio sarghini,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn0921,gladys beatriz,soto,gladys beatriz soto,f,chaco,1,1,2011-12-10,2015-12-09
+hcdn0924,enrique luis,thomas,enrique luis thomas,m,mendoza,1,2,2009-12-10,2013-12-09
+hcdn0926,pablo gabriel,tonelli,pablo gabriel tonelli,m,ciudad de buenos aires,1,2,2011-12-10,2023-12-09
+hcdn0930,mariano federico,west,mariano federico west,m,buenos aires,1,1,2009-12-10,2013-12-09
+hcdn0934,maurice fabian,closs,maurice fabian closs,m,misiones,1,3,2015-12-10,2019-12-09
+hcdn0949,jose ruben,uñac,jose ruben uñac,m,san juan,1,1,2011-12-10,2015-12-09
+hcdn0954,nancy susana,gonzalez,nancy susana gonzalez,f,chubut,1,1,2009-12-10,2013-12-09
+hcdn0955,fernando,sanchez,fernando sanchez,m,ciudad de buenos aires,1,2,2013-12-10,2017-12-09
+hcdn0960,julian martin,obiglio,julian martin obiglio,m,ciudad de buenos aires,1,1,2009-12-10,2013-12-09
+hcdn0964,ivana maria,bianchi,ivana maria bianchi,f,san luis,1,5,2007-12-10,2019-12-09
+hcdn0969,eric,calcagno y maillmann,eric calcagno y maillmann,m,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn0970,maria julia,acosta,maria julia acosta,f,catamarca,1,1,2007-12-10,2011-12-09
+hcdn0971,walter alfredo,agosto,walter alfredo agosto,m,santa fe,1,3,2007-12-10,2011-12-09
+hcdn0972,hilda,aguirre,hilda aguirre,f,la rioja,1,3,2007-12-10,2027-12-09
+hcdn0973,german enrique,alfaro,german enrique alfaro,m,tucuman,1,1,2007-12-10,2011-12-09
+hcdn0974,hector jorge,alvaro,hector jorge alvaro,m,mendoza,1,1,2007-12-10,2011-12-09
+hcdn0975,jose ameghino,arbo,jose ameghino arbo,m,corrientes,1,1,2007-12-10,2011-12-09
+hcdn0976,maria josefa,areta,maria josefa areta,f,corrientes,1,1,2007-12-10,2011-12-09
+hcdn0977,miguel angel,barrios,miguel angel barrios,m,santa fe,1,1,2007-12-10,2011-12-09
+hcdn0978,nora esther,bedano,nora esther bedano,f,cordoba,1,1,2007-12-10,2015-12-09
+hcdn0979,nelida,belous,nelida belous,f,tierra del fuego,1,5,2007-12-10,2011-12-09
+hcdn0980,veronica claudia,benas,veronica claudia benas,f,santa fe,1,6,2007-12-10,2011-12-09
+hcdn0981,mariel,calchaqui,mariel calchaqui,f,tierra del fuego,1,1,2007-12-10,2011-12-09
+hcdn0982,graciela maria,caselles,graciela maria caselles,f,san juan,1,4,2007-12-10,2023-12-09
+hcdn0983,jorge alberto,cejas,jorge alberto cejas,m,rio negro,1,1,2007-12-10,2015-12-09
+hcdn0984,roy,cortina,roy cortina,m,ciudad de buenos aires,1,1,2007-12-10,2015-12-09
+hcdn0985,maria cristina,cremer de busti,maria cristina cremer de busti,f,entre rios,1,4,2007-12-10,2017-12-09
+hcdn0986,rosa laudelina,chiquichano,rosa laudelina chiquichano,f,chubut,1,1,2007-12-10,2011-12-09
+hcdn0987,viviana monica,damilano grivarello,viviana monica damilano grivarello,f,chaco,1,1,2007-12-10,2011-12-09
+hcdn0988,alfredo carlos,dato,alfredo carlos dato,m,tucuman,1,1,2007-12-10,2015-12-09
+hcdn0989,hector eduardo,del campillo,hector eduardo del campillo,m,cordoba,1,1,2007-12-10,2011-12-09
+hcdn0990,monica hayde,fein,monica hayde fein,f,santa fe,1,1,2007-12-10,2011-12-09
+hcdn0991,luis maria,fernandez basualdo,luis maria fernandez basualdo,m,formosa,1,1,2007-12-10,2011-12-09
+hcdn0992,jose ignacio,garcia hamilton,jose ignacio garcia hamilton,m,tucuman,1,1,2007-12-10,2011-12-09
+hcdn0993,irma adriana,garcia,irma adriana garcia,f,la pampa,1,3,2007-12-10,2011-12-09
+hcdn0994,claudia fernanda,gil lozano,claudia fernanda gil lozano,f,ciudad de buenos aires,1,2,2007-12-10,2011-12-09
+hcdn0995,juan dante,gonzalez,juan dante gonzalez,m,mendoza,1,1,2007-12-10,2015-12-09
+hcdn0996,jose alberto,herrera,jose alberto herrera,m,santiago del estero,1,1,2007-12-10,2019-12-09
+hcdn0997,cynthia liliana,hotton,cynthia liliana hotton,f,ciudad de buenos aires,1,2,2007-12-10,2011-12-09
+hcdn0998,eduardo enrique federico,kenny,eduardo enrique federico kenny,m,la pampa,1,1,2007-12-10,2011-12-09
+hcdn0999,beatriz liliana,korenfeld,beatriz liliana korenfeld,f,santa cruz,1,1,2007-12-10,2011-12-09
+hcdn1000,stella maris,leverberg,stella maris leverberg,f,misiones,1,1,2007-12-10,2015-12-09
+hcdn1002,rafael angel,lopez,rafael angel lopez,m,formosa,1,1,2007-12-10,2011-12-09
+hcdn1003,ana zulema,luna de marcos,ana zulema luna de marcos,f,santiago del estero,1,1,2007-12-10,2011-12-09
+hcdn1004,paula cecilia,merchan,paula cecilia merchan,f,cordoba,1,3,2007-12-10,2011-12-09
+hcdn1005,mario raul,merlo,mario raul merlo,m,san luis,1,2,2007-12-10,2011-12-09
+hcdn1006,laura gisela,montero,laura gisela montero,f,mendoza,1,2,2007-12-10,2011-12-09
+hcdn1007,antonio arnaldo maria,morante,antonio arnaldo maria morante,m,chaco,1,1,2007-12-10,2011-12-09
+hcdn1008,manuel amor,morejon,manuel amor morejon,m,chubut,1,3,2007-12-10,2011-12-09
+hcdn1009,juan mario,pais,juan mario pais,m,chubut,1,1,2007-12-10,2015-12-09
+hcdn1010,raul omar,paroli,raul omar paroli,m,catamarca,1,1,2007-12-10,2011-12-09
+hcdn1011,mirta ameliana,pastoriza,mirta ameliana pastoriza,f,santiago del estero,1,1,2007-12-10,2019-12-09
+hcdn1012,fabian francisco,peralta,fabian francisco peralta,m,santa fe,1,2,2007-12-10,2015-12-09
+hcdn1013,guillermo antonio,pereyra,guillermo antonio pereyra,m,mendoza,1,1,2007-12-10,2011-12-09
+hcdn1014,jorge raul,perez,jorge raul perez,m,santiago del estero,1,1,2007-12-10,2011-12-09
+hcdn1015,agustin alberto,portela,agustin alberto portela,m,corrientes,1,1,2007-12-10,2015-12-09
+hcdn1016,hugo nelson,prieto,hugo nelson prieto,m,neuquen,1,1,2007-12-10,2011-12-09
+hcdn1017,jesus fernando,rejal,jesus fernando rejal,m,la rioja,1,1,2007-12-10,2011-12-09
+hcdn1018,alejandro luis,rossi,alejandro luis rossi,m,santa fe,1,1,2007-12-10,2011-12-09
+hcdn1019,cipriana lorena,rossi,cipriana lorena rossi,f,rio negro,1,3,2007-12-10,2011-12-09
+hcdn1020,ruben dario,sciutto,ruben dario sciutto,m,tierra del fuego,1,2,2007-12-10,2015-12-09
+hcdn1021,silvia,storni,silvia storni,f,cordoba,1,1,2007-12-10,2011-12-09
+hcdn1022,carlos,urlich,carlos urlich,m,chaco,1,1,2007-12-10,2011-12-09
+hcdn1023,lisandro alfredo,viale,lisandro alfredo viale,m,entre rios,1,1,2007-12-10,2011-12-09
+hcdn1024,jose antonio,vilariño,jose antonio vilariño,m,salta,1,1,2007-12-10,2015-12-09
+hcdn1025,gustavo marcelo,zavallo,gustavo marcelo zavallo,m,entre rios,1,2,2007-12-10,2011-12-09
+hcdn1029,juan carlos dante,gullo,juan carlos dante gullo,m,ciudad de buenos aires,1,1,2007-12-10,2011-12-09
+hcdn1030,maria fernanda,reyes,maria fernanda reyes,f,ciudad de buenos aires,1,2,2007-12-10,2011-12-09
+hcdn1031,fernando adolfo,iglesias,fernando adolfo iglesias,m,ciudad de buenos aires,1,3,2007-12-10,2025-12-09
+hcdn1032,heriberto agustin,martinez oddone,heriberto agustin martinez oddone,m,cordoba,1,1,2007-12-10,2011-12-09
+hcdn1033,eduardo alfredo,fellner,eduardo alfredo fellner,m,jujuy,1,1,2007-12-10,2011-12-09
+hcdn1034,griselda angela,baldata,griselda angela baldata,f,cordoba,1,2,2007-12-10,2011-12-09
+hcdn1035,juan carlos,vega,juan carlos vega,m,cordoba,1,2,2007-12-10,2011-12-09
+hcdn1036,mario humberto,martiarena,mario humberto martiarena,m,jujuy,1,3,2007-12-10,2011-12-09
+hcdn1037,alberto nicolas,paredes urquiza,alberto nicolas paredes urquiza,m,la rioja,1,1,2007-12-10,2011-12-09
+hcdn1038,timoteo,llera,timoteo llera,m,misiones,1,1,2007-12-10,2011-12-09
+hcdn1039,julia argentina,perie,julia argentina perie,f,misiones,1,1,2007-12-10,2015-12-09
+hcdn1040,juan carlos,scalesi,juan carlos scalesi,m,rio negro,1,2,2007-12-10,2011-12-09
+hcdn1041,monica liliana,torfe,monica liliana torfe,f,salta,1,1,2007-12-10,2011-12-09
+hcdn1042,florencio,randazzo,florencio randazzo,m,buenos aires,1,4,2021-12-10,2025-12-09
+hcdn1043,martin,lousteau,martin lousteau,m,ciudad de buenos aires,1,3,2013-12-10,2029-12-09
+hcdn1046,evaristo arturo,rodriguez,evaristo arturo rodriguez,m,santa cruz,1,1,2007-12-10,2011-12-09
+hcdn1048,nanci maria agustina,parrilli,nanci maria agustina parrilli,f,neuquen,1,1,2013-12-10,2017-12-09
+hcdn1066,julio,cobos,julio cobos,m,mendoza,1,2,2013-12-10,2025-12-09
+hcdn1068,horacio alberto,alcuaz,horacio alberto alcuaz,m,buenos aires,1,2,2007-12-10,2011-12-09
+hcdn1069,octavio,argüello,octavio argüello,m,buenos aires,1,1,2007-12-10,2011-12-09
+hcdn1070,gloria mercedes,bidegain,gloria mercedes bidegain,f,buenos aires,1,1,2007-12-10,2015-12-09
+hcdn1071,ricardo oscar,cuccovillo,ricardo oscar cuccovillo,m,buenos aires,1,1,2007-12-10,2015-12-09
+hcdn1072,elisa beatriz,carca,elisa beatriz carca,f,buenos aires,1,2,2007-12-10,2011-12-09
+hcdn1073,victoria analia,donda perez,victoria analia donda perez,f,buenos aires | ciudad de buenos aires,2,5,2007-12-10,2023-12-09
+hcdn1074,hector,flores,hector flores,m,buenos aires,1,2,2007-12-10,2021-12-09
+hcdn1075,christian alejandro,gribaudo,christian alejandro gribaudo,m,buenos aires,1,2,2007-12-10,2017-12-09
+hcdn1076,daniel,katz,daniel katz,m,buenos aires,1,3,2007-12-10,2011-12-09
+hcdn1077,ruben orfel,lanceta,ruben orfel lanceta,m,buenos aires,1,1,2007-12-10,2011-12-09
+hcdn1078,maria virginia,linares,maria virginia linares,f,buenos aires,1,2,2007-12-10,2015-12-09
+hcdn1080,juan carlos,moran,juan carlos moran,m,buenos aires,1,2,2007-12-10,2011-12-09
+hcdn1081,ariel osvaldo eloy,pasini,ariel osvaldo eloy pasini,m,buenos aires,1,1,2007-12-10,2015-12-09
+hcdn1083,sandra adriana,rioboo,sandra adriana rioboo,f,buenos aires,1,1,2007-12-10,2011-12-09
+hcdn1084,ramon,ruiz,ramon ruiz,m,buenos aires,1,1,2007-12-10,2011-12-09
+hcdn1085,lidia elsa,satragno,lidia elsa satragno,f,buenos aires,1,1,2007-12-10,2011-12-09
+hcdn1086,adela rosa,segarra,adela rosa segarra,f,buenos aires,1,1,2007-12-10,2015-12-09
+hcdn1087,gustavo eduardo,serebrinsky,gustavo eduardo serebrinsky,m,buenos aires,1,2,2007-12-10,2011-12-09
+hcdn1089,felipe carlos,sola,felipe carlos sola,m,buenos aires,1,8,2007-12-10,2021-12-09
+hcdn1090,norberto pedro,erro,norberto pedro erro,m,buenos aires,1,3,2007-12-10,2011-12-09
+hcdn1091,patricia susana,gardella,patricia susana gardella,f,buenos aires,1,3,2007-12-10,2011-12-09
+hcdn1096,julio ruben,ledesma,julio ruben ledesma,m,buenos aires,1,2,2009-12-10,2013-12-09
+hcdn1097,claudia alicia,bernazza,claudia alicia bernazza,f,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn1101,jorge luis,albarracin,jorge luis albarracin,m,mendoza,1,1,2009-12-10,2013-12-09
+hcdn1107,sergio tomas,massa,sergio tomas massa,m,buenos aires,1,3,2013-12-10,2023-12-09
+hcdn1110,juan carlos,lorges,juan carlos lorges,m,buenos aires,1,1,2007-12-10,2011-12-09
+hcdn1117,norah susana,castaldo,norah susana castaldo,f,tucuman,1,1,2007-12-10,2011-12-09
+hcdn1118,julian andres,dominguez,julian andres dominguez,m,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1119,lucia benigna,corpacci,lucia benigna corpacci,f,catamarca,1,1,2019-12-10,2023-12-09
+hcdn1121,luis alfredo,juez,luis alfredo juez,m,cordoba,1,1,2019-12-10,2023-12-09
+hcdn1130,jose manuel,cano,jose manuel cano,m,tucuman,1,1,2013-12-10,2021-12-09
+hcdn1132,marta beatriz,quintero,marta beatriz quintero,f,la rioja,1,1,2007-12-10,2011-12-09
+hcdn1133,sergio damian,pinto,sergio damian pinto,m,mendoza,1,1,2007-12-10,2011-12-09
+hcdn1134,nora graciela,iturraspe,nora graciela iturraspe,f,buenos aires,1,2,2009-12-10,2013-12-09
+hcdn1135,walter raul,wayar,walter raul wayar,m,salta,1,1,2009-12-10,2013-12-09
+hcdn1136,norma amanda,abdala de matarazzo,norma amanda abdala de matarazzo,f,santiago del estero,1,2,2009-12-10,2021-12-09
+hcdn1137,oscar edmundo nicolas,albrieu,oscar edmundo nicolas albrieu,m,rio negro,1,1,2009-12-10,2013-12-09
+hcdn1138,ricardo luis,alfonsin,ricardo luis alfonsin,m,buenos aires,1,1,2009-12-10,2017-12-09
+hcdn1139,laura,alonso,laura alonso,f,ciudad de buenos aires,1,2,2009-12-10,2017-12-09
+hcdn1140,elsa maria,alvarez,elsa maria alvarez,f,santa cruz,1,1,2009-12-10,2013-12-09
+hcdn1141,jorge mario,alvarez,jorge mario alvarez,m,santa fe,1,1,2009-12-10,2013-12-09
+hcdn1142,eduardo pablo,amadeo,eduardo pablo amadeo,m,buenos aires,1,5,2009-12-10,2019-12-09
+hcdn1143,celia isabel,arena,celia isabel arena,f,santa fe,1,2,2009-12-10,2013-12-09
+hcdn1144,alcira susana,argumedo,alcira susana argumedo,f,ciudad de buenos aires,1,2,2009-12-10,2017-12-09
+hcdn1145,lucio bernardo,aspiazu,lucio bernardo aspiazu,m,corrientes,1,1,2009-12-10,2013-12-09
+hcdn1146,mario leandro,barbieri,mario leandro barbieri,m,buenos aires,1,1,2009-12-10,2013-12-09
+hcdn1147,raul enrique,barrandeguy,raul enrique barrandeguy,m,entre rios,1,1,2009-12-10,2013-12-09
+hcdn1148,atilio,benedetti,atilio benedetti,m,entre rios,1,2,2009-12-10,2025-12-09
+hcdn1149,maria eugenia,bernal,maria eugenia bernal,f,jujuy,1,1,2009-12-10,2013-12-09
+hcdn1150,blanca,blanco de peralta,blanca blanco de peralta,f,santa cruz,1,1,2009-12-10,2013-12-09
+hcdn1151,ricardo,buryaile,ricardo buryaile,m,formosa,1,1,2009-12-10,2023-12-09
+hcdn1152,jorge justo,cardelli,jorge justo cardelli,m,ciudad de buenos aires,1,1,2009-12-10,2013-12-09
+hcdn1153,carlos alberto,carranza,carlos alberto carranza,m,santa fe,1,3,2009-12-10,2013-12-09
+hcdn1154,juan francisco,casañas,juan francisco casañas,m,tucuman,1,2,2009-12-10,2017-12-09
+hcdn1155,hugo,castañon,hugo castañon,m,rio negro,1,1,2009-12-10,2013-12-09
+hcdn1156,jorge omar,chemes,jorge omar chemes,m,entre rios,1,1,2009-12-10,2013-12-09
+hcdn1157,maria elena petrona,chieno,maria elena petrona chieno,f,corrientes,1,1,2009-12-10,2013-12-09
+hcdn1158,alicia mabel,ciciliani,alicia mabel ciciliani,f,santa fe,1,1,2009-12-10,2017-12-09
+hcdn1159,carlos marcelo,comi,carlos marcelo comi,m,santa fe,1,2,2009-12-10,2013-12-09
+hcdn1160,eduardo raul,costa,eduardo raul costa,m,santa cruz,1,1,2009-12-10,2017-12-09
+hcdn1161,oscar ruben,currilen,oscar ruben currilen,m,chubut,1,2,2009-12-10,2013-12-09
+hcdn1162,alfonso,de prat gay,alfonso de prat gay,m,ciudad de buenos aires,1,2,2009-12-10,2013-12-09
+hcdn1163,gladys susana,espindola,gladys susana espindola,f,cordoba,1,1,2009-12-10,2013-12-09
+hcdn1164,liliana,fadul,liliana fadul,f,tierra del fuego,1,1,2009-12-10,2013-12-09
+hcdn1165,hipolito,faustinelli,hipolito faustinelli,m,cordoba,1,1,2009-12-10,2013-12-09
+hcdn1166,carlos alberto,favario,carlos alberto favario,m,santa fe,1,1,2009-12-10,2013-12-09
+hcdn1167,omar chafi,felix,omar chafi felix,m,mendoza,1,3,2009-12-10,2021-12-09
+hcdn1168,rodolfo alfredo,fernandez,rodolfo alfredo fernandez,m,corrientes,1,1,2009-12-10,2013-12-09
+hcdn1169,gustavo alfredo horacio,ferrari,gustavo alfredo horacio ferrari,m,buenos aires,1,2,2009-12-10,2013-12-09
+hcdn1170,mario raymundo,fiad,mario raymundo fiad,m,jujuy,1,1,2009-12-10,2017-12-09
+hcdn1171,juan carlos,forconi,juan carlos forconi,m,santa fe,1,3,2009-12-10,2013-12-09
+hcdn1172,ulises umberto jose,forte,ulises umberto jose forte,m,la pampa,1,1,2009-12-10,2013-12-09
+hcdn1173,francisco jose,fortuna,francisco jose fortuna,m,cordoba,1,1,2009-12-10,2013-12-09
+hcdn1174,miriam graciela,gallardo,miriam graciela gallardo,f,tucuman,1,1,2009-12-10,2017-12-09
+hcdn1175,natalia,gambaro,natalia gambaro,f,buenos aires,1,2,2009-12-10,2013-12-09
+hcdn1176,estela ramona,garnero,estela ramona garnero,f,cordoba,1,1,2009-12-10,2013-12-09
+hcdn1177,daniel,germano,daniel germano,m,santa fe,1,2,2009-12-10,2013-12-09
+hcdn1178,gladys esther,gonzalez,gladys esther gonzalez,f,buenos aires,1,2,2009-12-10,2017-12-09
+hcdn1179,olga elizabeth,guzman,olga elizabeth guzman,f,neuquen,1,1,2009-12-10,2013-12-09
+hcdn1180,carlos,heller,carlos heller,m,ciudad de buenos aires,1,6,2009-12-10,2025-12-09
+hcdn1181,eduardo mauricio,ibarra,eduardo mauricio ibarra,m,san juan,1,2,2009-12-10,2013-12-09
+hcdn1182,mariana,juri,mariana juri,f,mendoza,1,1,2009-12-10,2013-12-09
+hcdn1183,ermindo edgardo marcelo,llanos,ermindo edgardo marcelo llanos,m,jujuy,1,1,2009-12-10,2013-12-09
+hcdn1184,silvia cristina,majdalani,silvia cristina majdalani,f,buenos aires | ciudad de buenos aires,2,2,2009-12-10,2017-12-09
+hcdn1185,ricardo alfredo,mansur,ricardo alfredo mansur,m,mendoza,1,1,2009-12-10,2013-12-09
+hcdn1186,ernesto felix,martinez,ernesto felix martinez,m,cordoba,1,1,2009-12-10,2013-12-09
+hcdn1187,soledad,martinez,soledad martinez,f,buenos aires,1,2,2009-12-10,2017-12-09
+hcdn1188,susana del valle,mazzarella,susana del valle mazzarella,f,cordoba,1,1,2009-12-10,2013-12-09
+hcdn1189,sandra marcela,mendoza,sandra marcela mendoza,f,chaco,1,1,2009-12-10,2017-12-09
+hcdn1190,dalmacio,mera,dalmacio mera,m,catamarca,1,1,2009-12-10,2013-12-09
+hcdn1191,marta gabriela,michetti,marta gabriela michetti,f,ciudad de buenos aires,1,1,2009-12-10,2013-12-09
+hcdn1192,gerardo,milman,gerardo milman,m,buenos aires,1,2,2009-12-10,2025-12-09
+hcdn1193,roberto mario,mouilleron,roberto mario mouilleron,m,buenos aires,1,3,2009-12-10,2013-12-09
+hcdn1194,carmen rosa,nebreda,carmen rosa nebreda,f,cordoba,1,1,2009-12-10,2013-12-09
+hcdn1196,pablo eduardo,orsolini,pablo eduardo orsolini,m,chaco,1,1,2009-12-10,2013-12-09
+hcdn1197,alfredo horacio,olmedo,alfredo horacio olmedo,m,salta,1,2,2009-12-10,2019-12-09
+hcdn1198,sergio horacio,pansa,sergio horacio pansa,m,san luis,1,3,2009-12-10,2013-12-09
+hcdn1199,liliana beatriz,parada,liliana beatriz parada,f,ciudad de buenos aires,1,2,2009-12-10,2013-12-09
+hcdn1200,alberto jose,perez,alberto jose perez,m,san luis,1,3,2009-12-10,2013-12-09
+hcdn1201,hector horacio,piemonte,hector horacio piemonte,m,buenos aires,1,2,2009-12-10,2013-12-09
+hcdn1202,maria ines,pilatti vergara,maria ines pilatti vergara,f,chaco,1,1,2009-12-10,2013-12-09
+hcdn1203,francisco omar,plaini,francisco omar plaini,m,buenos aires,1,2,2009-12-10,2017-12-09
+hcdn1204,horacio rodolfo,quiroga,horacio rodolfo quiroga,m,neuquen,1,1,2009-12-10,2013-12-09
+hcdn1205,hilma leonor,re,hilma leonor re,f,entre rios,1,2,2009-12-10,2013-12-09
+hcdn1206,maria cristina,regazzoli,maria cristina regazzoli,f,la pampa,1,1,2009-12-10,2013-12-09
+hcdn1207,silvia lucrecia,risko,silvia lucrecia risko,f,misiones,1,2,2009-12-10,2017-12-09
+hcdn1208,raul alberto,rivara,raul alberto rivara,m,buenos aires,1,3,2009-12-10,2013-12-09
+hcdn1209,roberto ricardo,robledo,roberto ricardo robledo,m,la pampa,1,1,2009-12-10,2013-12-09
+hcdn1210,claudia monica,rucci,claudia monica rucci,f,buenos aires,1,3,2009-12-10,2017-12-09
+hcdn1211,martin,sabbatella,martin sabbatella,m,buenos aires,1,3,2009-12-10,2013-12-09
+hcdn1212,fernando ezequiel,solanas,fernando ezequiel solanas,m,ciudad de buenos aires,1,1,2009-12-10,2013-12-09
+hcdn1213,maria luisa,storani,maria luisa storani,f,buenos aires,1,1,2009-12-10,2013-12-09
+hcdn1214,alicia,terada,alicia terada,f,chaco,1,3,2009-12-10,2021-12-09
+hcdn1215,hector daniel,tomas,hector daniel tomas,m,san juan,1,1,2009-12-10,2017-12-09
+hcdn1216,alberto jorge,triaca,alberto jorge triaca,m,ciudad de buenos aires,1,2,2009-12-10,2017-12-09
+hcdn1217,juan pedro,tunessi,juan pedro tunessi,m,buenos aires,1,1,2009-12-10,2013-12-09
+hcdn1218,mariana alejandra,veaute,mariana alejandra veaute,f,catamarca,1,3,2009-12-10,2013-12-09
+hcdn1219,nora esther,videla,nora esther videla,f,san luis,1,3,2009-12-10,2013-12-09
+hcdn1220,fernando,yarade,fernando yarade,m,salta,1,1,2009-12-10,2013-12-09
+hcdn1221,alex roberto,ziegler,alex roberto ziegler,m,misiones,1,4,2009-12-10,2017-12-09
+hcdn1222,antonio anibal,alizegui,antonio anibal alizegui,m,entre rios,1,1,2007-12-10,2011-12-09
+hcdn1223,pedro omar,molas,pedro omar molas,m,catamarca,1,2,2009-12-10,2013-12-09
+hcdn1224,daniel edgardo,asef,daniel edgardo asef,m,cordoba,1,3,2007-12-10,2011-12-09
+hcdn1227,gustavo alberto,dutto,gustavo alberto dutto,m,buenos aires,1,1,2007-12-10,2011-12-09
+hcdn1228,carlos guillermo,donkin,carlos guillermo donkin,m,formosa,1,1,2007-12-10,2015-12-09
+hcdn1231,ana maria,perroni,ana maria perroni,f,corrientes,1,1,2007-12-10,2015-12-09
+hcdn1232,lino walter,aguilar,lino walter aguilar,m,san luis,1,2,2011-12-10,2015-12-09
+hcdn1233,maria luz,alonso,maria luz alonso,f,la pampa,1,1,2011-12-10,2015-12-09
+hcdn1234,santiago diego,aragon,santiago diego aragon,m,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1235,andres roberto,arregui,andres roberto arregui,m,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1236,alberto,asseff,alberto asseff,m,buenos aires,1,4,2011-12-10,2023-12-09
+hcdn1237,herman horacio,avoscan,herman horacio avoscan,m,rio negro,1,1,2011-12-10,2015-12-09
+hcdn1238,maria ester,balcedo,maria ester balcedo,f,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1239,omar segundo,barchetta,omar segundo barchetta,m,santa fe,1,1,2011-12-10,2015-12-09
+hcdn1240,luis eugenio,basterra,luis eugenio basterra,m,formosa,1,3,2011-12-10,2027-12-09
+hcdn1241,miguel angel,bazze,miguel angel bazze,m,buenos aires,1,1,2011-12-10,2023-12-09
+hcdn1242,maria del carmen,bianchi,maria del carmen bianchi,f,ciudad de buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1243,bernardo jose,biella calvet,bernardo jose biella calvet,m,salta,1,1,2011-12-10,2015-12-09
+hcdn1244,mara,brawer,mara brawer,f,ciudad de buenos aires,1,2,2011-12-10,2023-12-09
+hcdn1245,olga ines,brizuela y doria de cara,olga ines brizuela y doria de cara,f,la rioja,1,1,2011-12-10,2015-12-09
+hcdn1246,isaac benjamin,bromberg,isaac benjamin bromberg,m,tucuman,1,1,2011-12-10,2015-12-09
+hcdn1247,guillermo ramon,carmona,guillermo ramon carmona,m,mendoza,1,1,2011-12-10,2019-12-09
+hcdn1248,julio cesar,catalan magni,julio cesar catalan magni,m,tierra del fuego,1,1,2011-12-10,2015-12-09
+hcdn1249,jose alberto,ciampini,jose alberto ciampini,m,neuquen,1,1,2011-12-10,2019-12-09
+hcdn1250,marcos,cleri,marcos cleri,m,santa fe,1,2,2011-12-10,2023-12-09
+hcdn1251,patricia,de ferrari rueda,patricia de ferrari rueda,f,cordoba,1,1,2011-12-10,2015-12-09
+hcdn1252,victor norberto,de gennaro,victor norberto de gennaro,m,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1253,eduardo enrique,de pedro,eduardo enrique de pedro,m,buenos aires,1,2,2011-12-10,2023-12-09
+hcdn1255,omar arnaldo,duclos,omar arnaldo duclos,m,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1256,carlos tomas,eliceche,carlos tomas eliceche,m,chubut,1,1,2011-12-10,2015-12-09
+hcdn1257,osvaldo enrique,elorriaga,osvaldo enrique elorriaga,m,entre rios,1,1,2011-12-10,2015-12-09
+hcdn1258,roberto jose,feletti,roberto jose feletti,m,ciudad de buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1259,anabel,fernandez sagasti,anabel fernandez sagasti,f,mendoza,1,1,2011-12-10,2015-12-09
+hcdn1260,araceli,ferreyra,araceli ferreyra,f,corrientes,1,3,2011-12-10,2019-12-09
+hcdn1261,maria cristina del valle,fiore viñuales,maria cristina del valle fiore viñuales,f,salta,1,1,2011-12-10,2015-12-09
+hcdn1262,fabian marcelo,francioni,fabian marcelo francioni,m,cordoba,1,1,2011-12-10,2015-12-09
+hcdn1263,silvina marcela,garcia larraburu,silvina marcela garcia larraburu,f,rio negro,1,1,2011-12-10,2015-12-09
+hcdn1264,andrea fabiana,garcia,andrea fabiana garcia,f,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1265,jorge alberto,garramuño,jorge alberto garramuño,m,tierra del fuego,1,1,2011-12-10,2015-12-09
+hcdn1266,manuel,garrido,manuel garrido,m,ciudad de buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1267,carlos enrique,gdansky,carlos enrique gdansky,m,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1268,claudia alejandra,giaccone,claudia alejandra giaccone,f,santa fe,1,1,2011-12-10,2015-12-09
+hcdn1269,leonardo,grosso,leonardo grosso,m,buenos aires,1,4,2011-12-10,2023-12-09
+hcdn1270,jose daniel,guccione,jose daniel guccione,m,misiones,1,1,2011-12-10,2015-12-09
+hcdn1271,monica edith,gutierrez,monica edith gutierrez,f,cordoba,1,1,2011-12-10,2015-12-09
+hcdn1272,ana maria,ianni,ana maria ianni,f,santa cruz,1,2,2011-12-10,2027-12-09
+hcdn1273,juan carlos isaac,junio,juan carlos isaac junio,m,ciudad de buenos aires,1,4,2011-12-10,2015-12-09
+hcdn1274,pablo francisco juan,kosiner,pablo francisco juan kosiner,m,salta,1,2,2011-12-10,2019-12-09
+hcdn1275,andres,larroque,andres larroque,m,buenos aires | ciudad de buenos aires,2,2,2011-12-10,2023-12-09
+hcdn1276,ines beatriz,lotto,ines beatriz lotto,f,formosa,1,1,2011-12-10,2019-12-09
+hcdn1277,victor hugo,maldonado,victor hugo maldonado,m,chaco,1,1,2011-12-10,2015-12-09
+hcdn1278,oscar ariel,martinez,oscar ariel martinez,m,santa fe,1,2,2011-12-10,2015-12-09
+hcdn1279,mayra soledad,mendoza,mayra soledad mendoza,f,buenos aires,1,1,2011-12-10,2019-12-09
+hcdn1280,mario alfredo,metaza,mario alfredo metaza,m,santa cruz,1,1,2011-12-10,2015-12-09
+hcdn1281,beatriz graciela,mirkin,beatriz graciela mirkin,f,tucuman,1,1,2011-12-10,2015-12-09
+hcdn1282,manuel isauro,molina,manuel isauro molina,m,catamarca,1,1,2011-12-10,2015-12-09
+hcdn1283,juan facundo,moyano,juan facundo moyano,m,buenos aires,1,6,2011-12-10,2023-12-09
+hcdn1284,edgar raul,müller,edgar raul müller,m,cordoba,1,2,2011-12-10,2015-12-09
+hcdn1285,graciela,navarro,graciela navarro,f,santiago del estero,1,2,2011-12-10,2023-12-09
+hcdn1286,mario nestor,oporto,mario nestor oporto,m,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1287,marcia sara maria,ortiz correa,marcia sara maria ortiz correa,f,catamarca,1,1,2011-12-10,2015-12-09
+hcdn1288,mariela,ortiz,mariela ortiz,f,jujuy,1,1,2011-12-10,2015-12-09
+hcdn1289,omar angel,perotti,omar angel perotti,m,santa fe,1,1,2011-12-10,2015-12-09
+hcdn1290,horacio,pietragalla corti,horacio pietragalla corti,m,buenos aires,1,3,2011-12-10,2029-12-09
+hcdn1291,roberto arturo,pradines,roberto arturo pradines,m,mendoza,1,1,2011-12-10,2015-12-09
+hcdn1292,elida elena,rasino,elida elena rasino,f,santa fe,1,1,2011-12-10,2015-12-09
+hcdn1293,oscar felipe,redczuk,oscar felipe redczuk,m,misiones,1,1,2011-12-10,2015-12-09
+hcdn1294,antonio sabino,riestra,antonio sabino riestra,m,santa fe,1,1,2011-12-10,2015-12-09
+hcdn1295,liliana maria,rios,liliana maria rios,f,entre rios,1,1,2011-12-10,2015-12-09
+hcdn1296,ruben armando,rivarola,ruben armando rivarola,m,jujuy,1,1,2011-12-10,2015-12-09
+hcdn1297,alberto oscar,roberti,alberto oscar roberti,m,buenos aires,1,6,2011-12-10,2019-12-09
+hcdn1298,fabian dulio,rogel,fabian dulio rogel,m,entre rios,1,1,2011-12-10,2015-12-09
+hcdn1299,aida delia,ruiz,aida delia ruiz,f,santiago del estero,1,1,2011-12-10,2015-12-09
+hcdn1300,luis fernando,sacca,luis fernando sacca,m,tucuman,1,1,2011-12-10,2015-12-09
+hcdn1301,walter marcelo,santillan,walter marcelo santillan,m,tucuman,1,1,2011-12-10,2019-12-09
+hcdn1302,cornelia,schmidt liermann,cornelia schmidt liermann,f,ciudad de buenos aires,1,2,2011-12-10,2019-12-09
+hcdn1303,silvia rosa,simoncini,silvia rosa simoncini,f,santa fe,1,1,2011-12-10,2015-12-09
+hcdn1304,javier hector,tineo,javier hector tineo,m,la rioja,1,1,2011-12-10,2015-12-09
+hcdn1305,jorge anselmo,valinotto,jorge anselmo valinotto,m,cordoba,1,1,2011-12-10,2015-12-09
+hcdn1306,enrique andres,vaquie,enrique andres vaquie,m,mendoza,1,1,2011-12-10,2015-12-09
+hcdn1307,jose antonio,villa,jose antonio villa,m,san juan,1,1,2011-12-10,2015-12-09
+hcdn1308,graciela susana,villata,graciela susana villata,f,cordoba,1,1,2011-12-10,2015-12-09
+hcdn1309,juan carlos,zabalza,juan carlos zabalza,m,santa fe,1,1,2011-12-10,2015-12-09
+hcdn1310,cristina isabel,ziebart,cristina isabel ziebart,f,chubut,1,1,2011-12-10,2015-12-09
+hcdn1316,pablo gerardo,gonzalez,pablo gerardo gonzalez,m,santa cruz,1,1,2019-12-10,2023-12-09
+hcdn1321,linda cristina,yagüe,linda cristina yagüe,f,neuquen,1,1,2009-12-10,2013-12-09
+hcdn1322,ramona,pucheta,ramona pucheta,f,buenos aires,1,2,2011-12-10,2015-12-09
+hcdn1323,ruben david,yazbek,ruben david yazbek,m,catamarca,1,1,2009-12-10,2013-12-09
+hcdn1325,gaston,harispe,gaston harispe,m,buenos aires,1,4,2011-12-10,2015-12-09
+hcdn1331,maria eugenia,zamarreño,maria eugenia zamarreño,f,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1332,monica graciela,contrera,monica graciela contrera,f,chubut,1,1,2011-12-10,2015-12-09
+hcdn1333,maria del carmen,carrillo,maria del carmen carrillo,f,tucuman,1,1,2011-12-10,2015-12-09
+hcdn1334,juan carlos,bettanin,juan carlos bettanin,m,santa fe,1,2,2009-12-10,2013-12-09
+hcdn1337,axel,kicillof,axel kicillof,m,ciudad de buenos aires,1,1,2015-12-10,2019-12-09
+hcdn1338,gilberto oscar,alegre,gilberto oscar alegre,m,buenos aires,1,2,2013-12-10,2017-12-09
+hcdn1339,marcelo silvio,d alessandro,marcelo silvio d alessandro,m,buenos aires,1,2,2013-12-10,2017-12-09
+hcdn1340,hector ricardo,daer,hector ricardo daer,m,buenos aires,1,3,2013-12-10,2017-12-09
+hcdn1341,maria azucena,ehcosor,maria azucena ehcosor,f,buenos aires,1,2,2013-12-10,2017-12-09
+hcdn1342,eduardo alberto,fabiani,eduardo alberto fabiani,m,buenos aires,1,4,2013-12-10,2017-12-09
+hcdn1343,ruben dario,giustozzi,ruben dario giustozzi,m,buenos aires,1,4,2013-12-10,2017-12-09
+hcdn1344,hector maria,gutierrez,hector maria gutierrez,m,buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1345,sandro adrian,guzman,sandro adrian guzman,m,buenos aires,1,5,2013-12-10,2017-12-09
+hcdn1346,martin,insaurralde,martin insaurralde,m,buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1347,veronica maria,magario,veronica maria magario,f,buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1348,nestor antonio,pitrola,nestor antonio pitrola,m,buenos aires,1,1,2013-12-10,2019-12-09
+hcdn1349,oscar alberto,romero,oscar alberto romero,m,buenos aires,1,2,2013-12-10,2017-12-09
+hcdn1350,maria liliana,schwindt,maria liliana schwindt,f,buenos aires,1,3,2013-12-10,2021-12-09
+hcdn1351,gabriela alejandra,troiano,gabriela alejandra troiano,f,buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1352,mirta,tundis,mirta tundis,f,buenos aires,1,3,2013-12-10,2021-12-09
+hcdn1353,myrian del valle,juarez,myrian del valle juarez,f,catamarca,1,1,2013-12-10,2017-12-09
+hcdn1354,nestor nicolas,tomassi,nestor nicolas tomassi,m,catamarca,1,2,2013-12-10,2017-12-09
+hcdn1355,gustavo jose,martinez campos,gustavo jose martinez campos,m,chaco,1,2,2013-12-10,2017-12-09
+hcdn1356,juan manuel,pedrini,juan manuel pedrini,m,chaco,1,3,2013-12-10,2025-12-09
+hcdn1357,miguel angel,tejedor,miguel angel tejedor,m,chaco,1,1,2013-12-10,2017-12-09
+hcdn1358,elia nelly,lagoria,elia nelly lagoria,f,chubut,1,1,2013-12-10,2017-12-09
+hcdn1359,sergio alejandro,bergman,sergio alejandro bergman,m,ciudad de buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1360,juan,cabandie,juan cabandie,m,ciudad de buenos aires,1,1,2013-12-10,2021-12-09
+hcdn1361,ana carla,carrizo,ana carla carrizo,f,ciudad de buenos aires,1,5,2013-12-10,2025-12-09
+hcdn1362,liliana amalia,mazure,liliana amalia mazure,f,ciudad de buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1363,federico adolfo,sturzenegger,federico adolfo sturzenegger,m,ciudad de buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1364,hector w.,baldassi,hector w. baldassi,m,cordoba,1,2,2013-12-10,2025-12-09
+hcdn1365,soledad,carrizo,soledad carrizo,f,cordoba,1,2,2013-12-10,2025-12-09
+hcdn1366,martin rodrigo,gill,martin rodrigo gill,m,cordoba,1,1,2013-12-10,2017-12-09
+hcdn1367,diego matias,mestre,diego matias mestre,m,cordoba,1,1,2013-12-10,2021-12-09
+hcdn1368,blanca araceli,rossi,blanca araceli rossi,f,cordoba,1,3,2013-12-10,2017-12-09
+hcdn1369,silvia carolina,scotto,silvia carolina scotto,f,cordoba,1,1,2013-12-10,2017-12-09
+hcdn1370,carlos gustavo,rubin,carlos gustavo rubin,m,corrientes,1,2,2013-12-10,2017-12-09
+hcdn1371,maria de las mercedes,semhan,maria de las mercedes semhan,f,corrientes,1,2,2013-12-10,2017-12-09
+hcdn1372,gustavo adolfo,valdes,gustavo adolfo valdes,m,corrientes,1,1,2013-12-10,2017-12-09
+hcdn1373,jorge ruben,barreto,jorge ruben barreto,m,entre rios,1,1,2013-12-10,2017-12-09
+hcdn1374,jorge marcelo,d'agostino,jorge marcelo d'agostino,m,entre rios,1,1,2013-12-10,2017-12-09
+hcdn1375,ana carolina,gaillard,ana carolina gaillard,f,entre rios,1,3,2013-12-10,2025-12-09
+hcdn1376,maria gabriela,burgos,maria gabriela burgos,f,jujuy,1,1,2013-12-10,2021-12-09
+hcdn1377,hector olindo,tentor,hector olindo tentor,m,jujuy,1,2,2013-12-10,2017-12-09
+hcdn1378,gustavo rodolfo,fernandez mendia,gustavo rodolfo fernandez mendia,m,la pampa,1,3,2013-12-10,2017-12-09
+hcdn1379,carlos javier,mac allister,carlos javier mac allister,m,la pampa,1,1,2013-12-10,2017-12-09
+hcdn1380,francisco javier,torroba,francisco javier torroba,m,la pampa,1,1,2013-12-10,2017-12-09
+hcdn1381,teresita,madera,teresita madera,f,la rioja,1,2,2013-12-10,2017-12-09
+hcdn1382,alejandro,abraham,alejandro abraham,m,mendoza,1,1,2013-12-10,2017-12-09
+hcdn1383,nicolas,del caño,nicolas del caño,m,buenos aires | mendoza,2,6,2013-12-10,2029-12-09
+hcdn1384,patricia viviana,gimenez,patricia viviana gimenez,f,mendoza,1,1,2013-12-10,2017-12-09
+hcdn1385,luis,petri,luis petri,m,mendoza,1,2,2013-12-10,2029-12-09
+hcdn1386,luis mario,pastori,luis mario pastori,m,misiones,1,1,2013-12-10,2021-12-09
+hcdn1387,adrian,san martin,adrian san martin,m,neuquen,1,1,2013-12-10,2017-12-09
+hcdn1388,maria ines,villar molina,maria ines villar molina,f,neuquen,1,1,2013-12-10,2017-12-09
+hcdn1389,luis maria,bardeggia,luis maria bardeggia,m,rio negro,1,1,2013-12-10,2017-12-09
+hcdn1390,maria emilia,soria,maria emilia soria,f,rio negro,1,1,2013-12-10,2021-12-09
+hcdn1391,guillermo mario,durand cornejo,guillermo mario durand cornejo,m,salta,1,2,2013-12-10,2017-12-09
+hcdn1392,evita nelida,isa,evita nelida isa,f,salta,1,2,2013-12-10,2017-12-09
+hcdn1393,pablo sebastian,lopez,pablo sebastian lopez,m,salta,1,1,2013-12-10,2017-12-09
+hcdn1394,eduardo augusto,caceres,eduardo augusto caceres,m,san juan,1,2,2013-12-10,2021-12-09
+hcdn1395,sandra daniela,castro,sandra daniela castro,f,san juan,1,1,2013-12-10,2021-12-09
+hcdn1396,berta hortensia,arenas,berta hortensia arenas,f,san luis,1,1,2013-12-10,2017-12-09
+hcdn1397,jose luis,riccardo,jose luis riccardo,m,san luis,1,1,2013-12-10,2021-12-09
+hcdn1398,fernando aldo,salino,fernando aldo salino,m,san luis,1,1,2013-12-10,2017-12-09
+hcdn1399,mauricio ricardo,gomez bull,mauricio ricardo gomez bull,m,santa cruz,1,1,2013-12-10,2017-12-09
+hcdn1400,susana maria,toledo,susana maria toledo,f,santa cruz,1,1,2013-12-10,2017-12-09
+hcdn1401,mario domingo,barletta,mario domingo barletta,m,santa fe,1,1,2013-12-10,2017-12-09
+hcdn1402,josefina victoria,gonzalez,josefina victoria gonzalez,f,santa fe,1,2,2013-12-10,2021-12-09
+hcdn1403,pablo lautaro,javkin,pablo lautaro javkin,m,santa fe,1,1,2013-12-10,2017-12-09
+hcdn1404,gisela,scaglia,gisela scaglia,f,santa fe,1,3,2013-12-10,2029-12-09
+hcdn1405,ricardo adrian,spinozzi,ricardo adrian spinozzi,m,santa fe,1,1,2013-12-10,2017-12-09
+hcdn1406,miguel ignacio,torres del sel,miguel ignacio torres del sel,m,santa fe,1,1,2013-12-10,2017-12-09
+hcdn1407,manuel humberto,juarez,manuel humberto juarez,m,santiago del estero,1,1,2013-12-10,2017-12-09
+hcdn1408,oscar anselmo,martinez,oscar anselmo martinez,m,tierra del fuego,1,1,2013-12-10,2017-12-09
+hcdn1409,martin alejandro,perez,martin alejandro perez,m,tierra del fuego,1,2,2013-12-10,2021-12-09
+hcdn1410,osvaldo francisco,jaldo,osvaldo francisco jaldo,m,tucuman,1,1,2013-12-10,2017-12-09
+hcdn1419,silvia beatriz,elias de perez,silvia beatriz elias de perez,f,tucuman,1,1,2013-12-10,2017-12-09
+hcdn1420,nilda mabel,carrizo,nilda mabel carrizo,f,tucuman,1,2,2013-12-10,2023-12-09
+hcdn1421,lautaro,gervasoni,lautaro gervasoni,m,entre rios,1,1,2013-12-10,2017-12-09
+hcdn1422,josue,gagliardi,josue gagliardi,m,rio negro,1,1,2011-12-10,2015-12-09
+hcdn1423,veronica,gonzalez,veronica gonzalez,f,tierra del fuego,1,1,2011-12-10,2015-12-09
+hcdn1424,juan fernando,marcopulos,juan fernando marcopulos,m,corrientes,1,1,2011-12-10,2015-12-09
+hcdn1425,graciela eunice,boyadjian,graciela eunice boyadjian,f,tierra del fuego,1,1,2011-12-10,2015-12-09
+hcdn1428,laura,esper,laura esper,f,buenos aires,1,1,2011-12-10,2015-12-09
+hcdn1429,eduardo jorge,seminara,eduardo jorge seminara,m,santa fe,1,1,2013-12-10,2017-12-09
+hcdn1430,hector enrique,olivares,hector enrique olivares,m,la rioja,1,1,2011-12-10,2019-12-09
+hcdn1432,ramon ernesto,bernabey,ramon ernesto bernabey,m,cordoba,1,2,2013-12-10,2017-12-09
+hcdn1433,luciano andres,laspina,luciano andres laspina,m,santa fe,1,2,2013-12-10,2025-12-09
+hcdn1435,myriam,bregman,myriam bregman,f,buenos aires | ciudad de buenos aires,2,6,2013-12-10,2029-12-09
+hcdn1436,maria cristina,fernandez blanco,maria cristina fernandez blanco,f,jujuy,1,1,2011-12-10,2015-12-09
+hcdn1439,silvia,lospennato,silvia lospennato,f,buenos aires,1,2,2015-12-10,2027-12-09
+hcdn1440,emilio,monzo,emilio monzo,m,buenos aires,1,5,2015-12-10,2025-12-09
+hcdn1441,samanta maria celeste,acerenza,samanta maria celeste acerenza,f,buenos aires,1,2,2015-12-10,2019-12-09
+hcdn1442,alejandro carlos augusto,echegaray,alejandro carlos augusto echegaray,m,buenos aires,1,1,2015-12-10,2019-12-09
+hcdn1443,paula marcela,urroz,paula marcela urroz,f,buenos aires,1,2,2015-12-10,2019-12-09
+hcdn1445,daniel andres,lipovetzky,daniel andres lipovetzky,m,buenos aires,1,2,2015-12-10,2019-12-09
+hcdn1446,sergio omar,buil,sergio omar buil,m,buenos aires,1,2,2015-12-10,2019-12-09
+hcdn1447,karina,banfi,karina banfi,f,buenos aires,1,3,2015-12-10,2027-12-09
+hcdn1448,waldo ezequiel,wolff,waldo ezequiel wolff,m,buenos aires,1,2,2015-12-10,2023-12-09
+hcdn1449,pablo,torello,pablo torello,m,buenos aires,1,2,2015-12-10,2023-12-09
+hcdn1450,diego luis,bossio,diego luis bossio,m,buenos aires,1,3,2015-12-10,2019-12-09
+hcdn1451,francisco abel,furlan,francisco abel furlan,m,buenos aires,1,1,2015-12-10,2019-12-09
+hcdn1452,adrian eduardo,grana,adrian eduardo grana,m,buenos aires,1,1,2015-12-10,2019-12-09
+hcdn1453,maria fernanda,raverta,maria fernanda raverta,f,buenos aires,1,1,2015-12-10,2019-12-09
+hcdn1454,carlos daniel,castagneto,carlos daniel castagneto,m,buenos aires,1,3,2015-12-10,2027-12-09
+hcdn1455,rodolfo,tailhade,rodolfo tailhade,m,buenos aires,1,3,2015-12-10,2027-12-09
+hcdn1456,luana,volnovich,luana volnovich,f,buenos aires,1,3,2015-12-10,2027-12-09
+hcdn1457,rodrigo martin,rodriguez,rodrigo martin rodriguez,m,buenos aires,1,1,2015-12-10,2019-12-09
+hcdn1458,maria isabel,guerin,maria isabel guerin,f,buenos aires,1,1,2015-12-10,2019-12-09
+hcdn1459,carlos americo,selva,carlos americo selva,m,buenos aires,1,2,2015-12-10,2023-12-09
+hcdn1460,marcela fabiana,passo,marcela fabiana passo,f,buenos aires,1,3,2015-12-10,2025-12-09
+hcdn1461,gustavo,bevilacqua,gustavo bevilacqua,m,buenos aires,1,1,2015-12-10,2019-12-09
+hcdn1462,raul joaquin,perez,raul joaquin perez,m,buenos aires,1,1,2015-12-10,2019-12-09
+hcdn1463,cecilia,moreau,cecilia moreau,f,buenos aires,1,3,2015-12-10,2027-12-09
+hcdn1464,anabella ruth,hers cabral,anabella ruth hers cabral,f,ciudad de buenos aires,1,2,2015-12-10,2019-12-09
+hcdn1465,marcelo german,wechsler,marcelo german wechsler,m,ciudad de buenos aires,1,2,2015-12-10,2019-12-09
+hcdn1466,alvaro,gonzalez,alvaro gonzalez,m,ciudad de buenos aires,1,2,2015-12-10,2027-12-09
+hcdn1467,juan carlos,villalonga,juan carlos villalonga,m,ciudad de buenos aires,1,2,2015-12-10,2019-12-09
+hcdn1468,marco,lavagna,marco lavagna,m,ciudad de buenos aires,1,2,2015-12-10,2019-12-09
+hcdn1469,carla betina,pitiot,carla betina pitiot,f,ciudad de buenos aires,1,1,2015-12-10,2019-12-09
+hcdn1470,veronica,mercado,veronica mercado,f,catamarca,1,1,2015-12-10,2019-12-09
+hcdn1471,amado,quintar,amado quintar,m,catamarca,1,1,2015-12-10,2019-12-09
+hcdn1472,analia,rach quiroga,analia rach quiroga,f,chaco,1,1,2015-12-10,2019-12-09
+hcdn1473,maria lucila,masin,maria lucila masin,f,chaco,1,2,2015-12-10,2023-12-09
+hcdn1474,horacio,goicoechea,horacio goicoechea,m,chaco,1,1,2015-12-10,2019-12-09
+hcdn1475,santiago nicolas,igon,santiago nicolas igon,m,chubut,1,2,2015-12-10,2023-12-09
+hcdn1476,ana maria,llanos massa,ana maria llanos massa,f,chubut,1,1,2015-12-10,2019-12-09
+hcdn1477,jorge,taboada,jorge taboada,m,chubut,1,2,2015-12-10,2019-12-09
+hcdn1478,pedro ruben,miranda,pedro ruben miranda,m,mendoza,1,2,2015-12-10,2019-12-09
+hcdn1479,maria cristina,britez,maria cristina britez,f,misiones,1,2,2015-12-10,2023-12-09
+hcdn1480,jorge daniel,franco,jorge daniel franco,m,misiones,1,2,2015-12-10,2019-12-09
+hcdn1481,daniel,di stefano,daniel di stefano,m,misiones,1,2,2015-12-10,2019-12-09
+hcdn1482,leandro gaston,lopez koenig,leandro gaston lopez koenig,m,neuquen,1,2,2015-12-10,2019-12-09
+hcdn1483,claudio martin,doñate,claudio martin doñate,m,rio negro,1,1,2015-12-10,2019-12-09
+hcdn1484,silvia renee,horne,silvia renee horne,f,rio negro,1,3,2015-12-10,2019-12-09
+hcdn1485,sergio javier,wisky,sergio javier wisky,m,rio negro,1,2,2015-12-10,2019-12-09
+hcdn1486,javier,david,javier david,m,salta,1,2,2015-12-10,2019-12-09
+hcdn1487,miguel,nanni,miguel nanni,m,salta,1,1,2015-12-10,2023-12-09
+hcdn1488,enrique roberto,castro molina,enrique roberto castro molina,m,san juan,1,1,2015-12-10,2019-12-09
+hcdn1489,maximo carlos,kirchner,maximo carlos kirchner,m,buenos aires | santa cruz,2,3,2015-12-10,2027-12-09
+hcdn1490,hector alberto,roquel,hector alberto roquel,m,santa cruz,1,1,2015-12-10,2019-12-09
+hcdn1491,silvina patricia,frana,silvina patricia frana,f,santa fe,1,1,2015-12-10,2019-12-09
+hcdn1492,alejandro,ramos,alejandro ramos,m,santa fe,1,2,2015-12-10,2019-12-09
+hcdn1493,lucila maria,de ponti,lucila maria de ponti,f,santa fe,1,3,2015-12-10,2019-12-09
+hcdn1494,matias david,rodriguez,matias david rodriguez,m,tierra del fuego,1,1,2015-12-10,2019-12-09
+hcdn1495,analuz ailen,carol,analuz ailen carol,f,tierra del fuego,1,1,2015-12-10,2019-12-09
+hcdn1496,jose fernando,orellana,jose fernando orellana,m,tucuman,1,3,2015-12-10,2019-12-09
+hcdn1497,mirta alicia,soraire,mirta alicia soraire,f,tucuman,1,2,2015-12-10,2019-12-09
+hcdn1498,ana laura,martinez,ana laura martinez,f,santa fe,1,1,2015-12-10,2019-12-09
+hcdn1499,lucas ciriaco,incicco,lucas ciriaco incicco,m,santa fe,1,2,2015-12-10,2019-12-09
+hcdn1500,jose,nuñez,jose nuñez,m,santa fe,1,3,2015-12-10,2027-12-09
+hcdn1501,facundo,garreton,facundo garreton,m,tucuman,1,2,2015-12-10,2019-12-09
+hcdn1502,maria teresita,villavicencio,maria teresita villavicencio,f,tucuman,1,3,2015-12-10,2019-12-09
+hcdn1503,alejandro ariel,grandinetti,alejandro ariel grandinetti,m,santa fe,1,2,2015-12-10,2019-12-09
+hcdn1504,vanesa laura,massetani,vanesa laura massetani,f,santa fe,1,2,2015-12-10,2023-12-09
+hcdn1505,hugo maria,marcucci,hugo maria marcucci,m,santa fe,1,1,2015-12-10,2019-12-09
+hcdn1507,carlos gaston,roma,carlos gaston roma,m,tierra del fuego,1,2,2015-12-10,2019-12-09
+hcdn1508,soledad,sosa,soledad sosa,f,mendoza,1,1,2013-12-10,2017-12-09
+hcdn1509,pedro javier,pretto,pedro javier pretto,m,cordoba,1,2,2015-12-10,2019-12-09
+hcdn1510,olga maria,rista,olga maria rista,f,cordoba,1,1,2015-12-10,2019-12-09
+hcdn1511,leonor maria,martinez villada,leonor maria martinez villada,f,cordoba,1,2,2015-12-10,2023-12-09
+hcdn1512,nicolas,massot,nicolas massot,m,buenos aires | cordoba,2,5,2015-12-10,2027-12-09
+hcdn1513,juan manuel,pereyra,juan manuel pereyra,m,cordoba,1,1,2015-12-10,2019-12-09
+hcdn1514,gabriela beatriz,estevez,gabriela beatriz estevez,f,cordoba,1,3,2015-12-10,2027-12-09
+hcdn1515,juan carlos,massei,juan carlos massei,m,cordoba,1,1,2015-12-10,2019-12-09
+hcdn1516,adriana monica,nazario,adriana monica nazario,f,cordoba,1,4,2015-12-10,2019-12-09
+hcdn1517,jose arnaldo,ruiz aragon,jose arnaldo ruiz aragon,m,corrientes,1,2,2015-12-10,2023-12-09
+hcdn1518,oscar alberto,macias,oscar alberto macias,m,corrientes,1,2,2015-12-10,2019-12-09
+hcdn1519,julian,dindart,julian dindart,m,corrientes,1,1,2015-12-10,2019-12-09
+hcdn1520,marcelo alejandro,monfort,marcelo alejandro monfort,m,entre rios,1,1,2015-12-10,2019-12-09
+hcdn1521,yanina celeste,gayol,yanina celeste gayol,f,entre rios,1,2,2015-12-10,2019-12-09
+hcdn1522,juan manuel,huss,juan manuel huss,m,entre rios,1,1,2015-12-10,2019-12-09
+hcdn1523,martin osvaldo,hernandez,martin osvaldo hernandez,m,formosa,1,1,2015-12-10,2019-12-09
+hcdn1524,guillermo,snopek,guillermo snopek,m,jujuy,1,4,2015-12-10,2027-12-09
+hcdn1525,silvia alejandra,martinez,silvia alejandra martinez,f,jujuy,1,1,2015-12-10,2019-12-09
+hcdn1526,alejandro francisco,snopek,alejandro francisco snopek,m,jujuy,1,2,2015-12-10,2019-12-09
+hcdn1527,sergio raul,ziliotto,sergio raul ziliotto,m,la pampa,1,2,2015-12-10,2019-12-09
+hcdn1528,karina alejandra,molina,karina alejandra molina,f,la rioja,1,2,2015-12-10,2019-12-09
+hcdn1529,luis beder,herrera,luis beder herrera,m,la rioja,1,2,2015-12-10,2019-12-09
+hcdn1530,elva susana,balbo,elva susana balbo,f,mendoza,1,2,2015-12-10,2019-12-09
+hcdn1531,mariana elizabet,morales,mariana elizabet morales,f,santiago del estero,1,1,2015-12-10,2019-12-09
+hcdn1537,rogelio,frigerio,rogelio frigerio,m,entre rios,1,1,2021-12-10,2025-12-09
+hcdn1548,laura elena,rodriguez machado,laura elena rodriguez machado,f,cordoba,1,2,2021-12-10,2029-12-09
+hcdn1555,pamela fernanda,verasay,pamela fernanda verasay,f,mendoza,1,2,2021-12-10,2029-12-09
+hcdn1558,julio,raffo,julio raffo,m,ciudad de buenos aires,1,2,2013-12-10,2017-12-09
+hcdn1559,lucila beatriz,dure,lucila beatriz dure,f,formosa,1,1,2013-12-10,2017-12-09
+hcdn1560,sixto osvaldo,bermejo,sixto osvaldo bermejo,m,chubut,1,1,2013-12-10,2017-12-09
+hcdn1561,andres ernesto,guzman,andres ernesto guzman,m,cordoba,1,3,2013-12-10,2017-12-09
+hcdn1562,dario,martinez,dario martinez,m,neuquen,1,2,2013-12-10,2023-12-09
+hcdn1563,maria paula,lopardo,maria paula lopardo,f,ciudad de buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1564,jose luis,patiño,jose luis patiño,m,ciudad de buenos aires,1,2,2013-12-10,2021-12-09
+hcdn1565,martin,maquieyra,martin maquieyra,m,la pampa,1,2,2013-12-10,2025-12-09
+hcdn1566,eduardo raul,conesa,eduardo raul conesa,m,ciudad de buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1567,alicia irma,besada,alicia irma besada,f,ciudad de buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1568,horacio fernando,alonso,horacio fernando alonso,m,buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1569,marcelo adolfo,sorgente,marcelo adolfo sorgente,m,ciudad de buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1570,gerardo alberto,bellocq,gerardo alberto bellocq,m,cordoba,1,1,2013-12-10,2017-12-09
+hcdn1571,federico augusto,masso,federico augusto masso,m,tucuman,1,1,2013-12-10,2017-12-09
+hcdn1572,gabriela romina,albornoz,gabriela romina albornoz,f,jujuy,1,1,2013-12-10,2017-12-09
+hcdn1573,stella maris,huczak,stella maris huczak,f,mendoza,1,2,2015-12-10,2019-12-09
+hcdn1574,maria clara del valle,vega,maria clara del valle vega,f,la rioja,1,1,2013-12-10,2017-12-09
+hcdn1575,agustin santiago,calleri,agustin santiago calleri,m,cordoba,1,1,2013-12-10,2017-12-09
+hcdn1576,maria eugenia,brezzo,maria eugenia brezzo,f,cordoba,1,1,2013-12-10,2017-12-09
+hcdn1577,juan fernando,brügge,juan fernando brügge,m,cordoba,1,6,2015-12-10,2027-12-09
+hcdn1578,ana isabel,copes,ana isabel copes,f,santa fe,1,1,2013-12-10,2017-12-09
+hcdn1579,monica edith,litza,monica edith litza,f,buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1580,graciela,cousinet,graciela cousinet,f,mendoza,1,1,2013-12-10,2017-12-09
+hcdn1581,gustavo hector,arrieta,gustavo hector arrieta,m,buenos aires,1,1,2013-12-10,2017-12-09
+hcdn1582,brenda lis,austin,brenda lis austin,f,cordoba,1,1,2013-12-10,2021-12-09
+hcdn1583,maria florencia,peñaloza marianetti,maria florencia peñaloza marianetti,f,san juan,1,3,2015-12-10,2019-12-09
+hcdn2277,ramon alberto,tovares,ramon alberto tovares,m,san juan,1,1,2013-12-10,2017-12-09
+hcdn2278,juan carlos,giordano,juan carlos giordano,m,buenos aires,1,3,2013-12-10,2025-12-09
+hcdn2279,orieta cecilia,vera gonzalez,orieta cecilia vera gonzalez,f,catamarca,1,1,2015-12-10,2019-12-09
+hcdn2282,veronica carolina,couly,veronica carolina couly,f,buenos aires,1,1,2013-12-10,2017-12-09
+hcdn2285,nathalia ines,gonzalez seligra,nathalia ines gonzalez seligra,f,buenos aires,1,1,2015-12-10,2019-12-09
+hcdn2335,ramon alfredo,dominguez,ramon alfredo dominguez,m,san luis,1,1,2013-12-10,2017-12-09
+hcdn2340,estela mary,neder,estela mary neder,f,santiago del estero,1,3,2015-12-10,2027-12-09
+hcdn2349,juan,aicega,juan aicega,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2350,walberto,allende,walberto allende,m,san juan,1,3,2017-12-10,2025-12-09
+hcdn2351,laura v.,alonso,laura v. alonso,f,buenos aires,1,2,2017-12-10,2021-12-09
+hcdn2352,karim augusto,alume sbodio,karim augusto alume sbodio,m,san luis,1,3,2017-12-10,2021-12-09
+hcdn2353,carmen,polledo,carmen polledo,f,ciudad de buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2354,pablo,ansaloni,pablo ansaloni,m,buenos aires,1,3,2017-12-10,2027-12-09
+hcdn2355,mario horacio,arce,mario horacio arce,m,formosa,1,1,2017-12-10,2021-12-09
+hcdn2356,daniel,arroyo,daniel arroyo,m,buenos aires,1,4,2017-12-10,2025-12-09
+hcdn2357,beatriz luisa,avila,beatriz luisa avila,f,tucuman,1,1,2017-12-10,2021-12-09
+hcdn2358,aida beatriz maxima,ayala,aida beatriz maxima ayala,f,chaco,1,1,2017-12-10,2021-12-09
+hcdn2359,juan jose,bahillo,juan jose bahillo,m,entre rios,1,1,2017-12-10,2021-12-09
+hcdn2360,hernan,berisso,hernan berisso,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2361,sofia,brambilla,sofia brambilla,f,corrientes,1,1,2017-12-10,2025-12-09
+hcdn2362,marcela,campagnoli,marcela campagnoli,f,buenos aires,1,3,2017-12-10,2025-12-09
+hcdn2363,javier,campos,javier campos,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2364,albor angel,cantard,albor angel cantard,m,santa fe,1,1,2017-12-10,2021-12-09
+hcdn2365,antonio jose,carambia,antonio jose carambia,m,santa cruz,1,3,2017-12-10,2021-12-09
+hcdn2366,pablo,carro,pablo carro,m,cordoba,1,3,2017-12-10,2025-12-09
+hcdn2367,paulo leonardo,cassinerio,paulo leonardo cassinerio,m,cordoba,1,1,2017-12-10,2021-12-09
+hcdn2368,gabriela,cerruti,gabriela cerruti,f,ciudad de buenos aires,1,2,2017-12-10,2021-12-09
+hcdn2369,luis gustavo,contigiani,luis gustavo contigiani,m,santa fe,1,2,2017-12-10,2021-12-09
+hcdn2370,walter,correa,walter correa,m,buenos aires,1,2,2017-12-10,2021-12-09
+hcdn2371,mayda,cresto,mayda cresto,f,entre rios,1,2,2017-12-10,2021-12-09
+hcdn2372,gonzalo pedro antonio,del cerro,gonzalo pedro antonio del cerro,m,santa fe,1,1,2017-12-10,2021-12-09
+hcdn2373,romina,del pla,romina del pla,f,buenos aires,1,6,2017-12-10,2029-12-09
+hcdn2374,melina aida,delu,melina aida delu,f,la pampa,1,2,2017-12-10,2021-12-09
+hcdn2375,ezequiel,fernandez langan,ezequiel fernandez langan,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2376,ramiro,fernandez patri,ramiro fernandez patri,m,formosa,1,3,2017-12-10,2025-12-09
+hcdn2377,carlos a.,fernandez,carlos a. fernandez,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2378,danilo adrian,flores,danilo adrian flores,m,la rioja,1,2,2017-12-10,2021-12-09
+hcdn2379,alicia,fregonese,alicia fregonese,f,entre rios,1,1,2017-12-10,2029-12-09
+hcdn2380,gabriel alberto,frizza,gabriel alberto frizza,m,cordoba,1,1,2017-12-10,2021-12-09
+hcdn2381,alejandro,garcia,alejandro garcia,m,ciudad de buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2382,silvana micaela,ginocchio,silvana micaela ginocchio,f,catamarca,1,4,2017-12-10,2025-12-09
+hcdn2383,martin,grande,martin grande,m,salta,1,1,2017-12-10,2021-12-09
+hcdn2384,hugo orlando,infante,hugo orlando infante,m,santiago del estero,1,1,2017-12-10,2021-12-09
+hcdn2385,jorge enrique,lacoste,jorge enrique lacoste,m,entre rios,1,1,2017-12-10,2021-12-09
+hcdn2386,sergio napoleon,leavy,sergio napoleon leavy,m,salta,1,1,2017-12-10,2021-12-09
+hcdn2387,federico raul,zamarbide,federico raul zamarbide,m,mendoza,1,1,2017-12-10,2021-12-09
+hcdn2388,claudia,ledesma abdala de zamora,claudia ledesma abdala de zamora,f,santiago del estero,1,1,2017-12-10,2021-12-09
+hcdn2389,maria lucila,lehmann,maria lucila lehmann,f,santa fe,1,1,2017-12-10,2021-12-09
+hcdn2390,martin miguel,llaryora,martin miguel llaryora,m,cordoba,1,1,2017-12-10,2021-12-09
+hcdn2391,lorena,matzen,lorena matzen,f,rio negro,1,1,2017-12-10,2021-12-09
+hcdn2392,gladys,medina,gladys medina,f,tucuman,1,4,2017-12-10,2029-12-09
+hcdn2393,martin nicolas,medina,martin nicolas medina,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2394,gustavo,menna,gustavo menna,m,chubut,1,1,2017-12-10,2021-12-09
+hcdn2395,osmar antonio,monaldi,osmar antonio monaldi,m,jujuy,1,1,2017-12-10,2021-12-09
+hcdn2396,guillermo tristan,montenegro,guillermo tristan montenegro,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2397,flavia,morales,flavia morales,f,misiones,1,1,2017-12-10,2021-12-09
+hcdn2398,juan,mosqueda,juan mosqueda,m,chaco,1,2,2017-12-10,2021-12-09
+hcdn2399,claudia,najul,claudia najul,f,mendoza,1,1,2017-12-10,2021-12-09
+hcdn2400,paula,oliveto lago,paula oliveto lago,f,ciudad de buenos aires,1,3,2017-12-10,2025-12-09
+hcdn2401,juan manuel,lopez,juan manuel lopez,m,buenos aires | ciudad de buenos aires,2,3,2017-12-10,2025-12-09
+hcdn2402,monica,macha,monica macha,f,buenos aires,1,4,2017-12-10,2025-12-09
+hcdn2403,jose luis,martiarena,jose luis martiarena,m,jujuy,1,2,2017-12-10,2021-12-09
+hcdn2404,elda,pertile,elda pertile,f,chaco,1,2,2017-12-10,2021-12-09
+hcdn2405,maria carla,piccolomini,maria carla piccolomini,f,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2406,fabio jose,quetglas,fabio jose quetglas,m,buenos aires,1,2,2017-12-10,2025-12-09
+hcdn2407,jose luis,ramon,jose luis ramon,m,mendoza,1,3,2017-12-10,2021-12-09
+hcdn2408,ariel,rauschenberger,ariel rauschenberger,m,la pampa,1,3,2017-12-10,2027-12-09
+hcdn2409,estela mercedes,regidor belledone,estela mercedes regidor belledone,f,corrientes,1,1,2017-12-10,2021-12-09
+hcdn2410,roxana nahir,reyes,roxana nahir reyes,f,santa cruz,1,2,2017-12-10,2025-12-09
+hcdn2411,alejandra,rodenas,alejandra rodenas,f,santa fe,1,2,2017-12-10,2021-12-09
+hcdn2412,jorge antonio,romero,jorge antonio romero,m,corrientes,1,3,2017-12-10,2025-12-09
+hcdn2413,victoria,rosso,victoria rosso,f,san luis,1,3,2017-12-10,2021-12-09
+hcdn2414,laura,russo,laura russo,f,buenos aires,1,2,2017-12-10,2021-12-09
+hcdn2415,gustavo arturo,saadi,gustavo arturo saadi,m,catamarca,1,2,2017-12-10,2021-12-09
+hcdn2416,julio enrique,sahad,julio enrique sahad,m,la rioja,1,1,2017-12-10,2021-12-09
+hcdn2417,roberto,salvarezza,roberto salvarezza,m,buenos aires,1,2,2017-12-10,2021-12-09
+hcdn2418,alma liliana,sapag,alma liliana sapag,f,neuquen,1,1,2017-12-10,2021-12-09
+hcdn2419,david pablo,schlereth,david pablo schlereth,m,neuquen,1,1,2017-12-10,2021-12-09
+hcdn2420,magdalena,sierra,magdalena sierra,f,buenos aires,1,2,2017-12-10,2021-12-09
+hcdn2421,vanesa raquel,siley,vanesa raquel siley,f,buenos aires,1,3,2017-12-10,2029-12-09
+hcdn2422,hector antonio,stefani,hector antonio stefani,m,tierra del fuego,1,1,2017-12-10,2025-12-09
+hcdn2423,facundo,suarez lastra,facundo suarez lastra,m,ciudad de buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2424,fernanda,vallejos,fernanda vallejos,f,buenos aires,1,2,2017-12-10,2021-12-09
+hcdn2425,juan benedicto,vazquez,juan benedicto vazquez,m,santa cruz,1,2,2017-12-10,2021-12-09
+hcdn2426,alejandra maria,vigo,alejandra maria vigo,f,cordoba,1,1,2017-12-10,2021-12-09
+hcdn2427,natalia soledad,villa,natalia soledad villa,f,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2428,ricardo,wellbach,ricardo wellbach,m,misiones,1,1,2017-12-10,2021-12-09
+hcdn2429,hugo,yasky,hugo yasky,m,buenos aires,1,3,2017-12-10,2029-12-09
+hcdn2430,fernando,espinoza,fernando espinoza,m,buenos aires,1,2,2017-12-10,2021-12-09
+hcdn2431,pablo raul,yedlin,pablo raul yedlin,m,tucuman,1,3,2017-12-10,2027-12-09
+hcdn2432,eduardo,bucca,eduardo bucca,m,buenos aires,1,2,2017-12-10,2021-12-09
+hcdn2433,josefina,mendoza,josefina mendoza,f,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2434,rosa rosario,muñoz,rosa rosario muñoz,f,chubut,1,2,2017-12-10,2021-12-09
+hcdn2435,jorge ricardo,enriquez,jorge ricardo enriquez,m,ciudad de buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2436,astrid,hummel,astrid hummel,f,santa fe,1,1,2015-12-10,2019-12-09
+hcdn2437,andres alberto,vallone,andres alberto vallone,m,san luis,1,2,2015-12-10,2019-12-09
+hcdn2438,veronica,derna,veronica derna,f,misiones,1,1,2015-12-10,2019-12-09
+hcdn2439,nadia lorena,ricci,nadia lorena ricci,f,santa cruz,1,1,2015-12-10,2019-12-09
+hcdn2440,sebastian,bragagnolo,sebastian bragagnolo,m,mendoza,1,1,2015-12-10,2019-12-09
+hcdn2441,fernando,asencio,fernando asencio,m,buenos aires,1,2,2015-12-10,2019-12-09
+hcdn2444,monica leticia,schlotthauer,monica leticia schlotthauer,f,buenos aires,1,2,2015-12-10,2025-12-09
+hcdn2445,bernardo jose,herrera,bernardo jose herrera,m,santiago del estero,1,3,2017-12-10,2025-12-09
+hcdn2536,jose luis,moretti,jose luis moretti,m,la rioja,1,1,2015-12-10,2019-12-09
+hcdn2676,alejandra alcira,caballero,alejandra alcira caballero,f,ciudad de buenos aires,1,1,2015-12-10,2019-12-09
+hcdn2738,roberto,mirabella,roberto mirabella,m,santa fe,1,3,2021-12-10,2025-12-09
+hcdn2749,jimena,latorre,jimena latorre,f,mendoza,1,1,2019-12-10,2023-12-09
+hcdn2750,adriana noemi,ruarte,adriana noemi ruarte,f,cordoba,1,1,2019-12-10,2023-12-09
+hcdn2751,lucas javier,godoy,lucas javier godoy,m,salta,1,1,2019-12-10,2023-12-09
+hcdn2752,victor hugo,romero,victor hugo romero,m,cordoba,1,1,2019-12-10,2023-12-09
+hcdn2753,marisa lourdes,uceda,marisa lourdes uceda,f,mendoza,1,1,2019-12-10,2023-12-09
+hcdn2754,jorge,rizzotti,jorge rizzotti,m,jujuy,1,4,2019-12-10,2027-12-09
+hcdn2755,francisco,sanchez,francisco sanchez,m,neuquen,1,1,2019-12-10,2023-12-09
+hcdn2756,enrique,estevez,enrique estevez,m,santa fe,1,1,2019-12-10,2023-12-09
+hcdn2758,lidia ines,ascarate,lidia ines ascarate,f,tucuman,1,1,2019-12-10,2023-12-09
+hcdn2759,alicia n.,aparicio,alicia n. aparicio,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2760,claudia beatriz,ormachea,claudia beatriz ormachea,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2761,florencia,lampreabe,florencia lampreabe,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2762,carlos ybrhain,ponce,carlos ybrhain ponce,m,san luis,1,1,2019-12-10,2023-12-09
+hcdn2763,alfredo oscar,schiavoni,alfredo oscar schiavoni,m,misiones,1,1,2019-12-10,2023-12-09
+hcdn2764,juan,martin,juan martin,m,santa fe,1,1,2019-12-10,2023-12-09
+hcdn2765,carlos,cisneros,carlos cisneros,m,tucuman,1,2,2019-12-10,2027-12-09
+hcdn2766,soher,el sukaria,soher el sukaria,f,cordoba,1,1,2019-12-10,2023-12-09
+hcdn2767,victoria,morales gorleri,victoria morales gorleri,f,ciudad de buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2768,carlos,gutierrez,carlos gutierrez,m,cordoba,1,5,2019-12-10,2027-12-09
+hcdn2769,hernan,perez araujo,hernan perez araujo,m,la pampa,1,1,2019-12-10,2023-12-09
+hcdn2770,"hector ""cacho""",barbaro,"hector ""cacho"" barbaro",m,misiones,1,1,2019-12-10,2023-12-09
+hcdn2771,gabriela,lena,gabriela lena,f,entre rios,1,1,2019-12-10,2023-12-09
+hcdn2772,carlos alberto,vivero,carlos alberto vivero,m,neuquen,1,1,2017-12-10,2021-12-09
+hcdn2773,martin,soria,martin soria,m,rio negro,1,2,2019-12-10,2027-12-09
+hcdn2774,"alejandro ""topo""",rodriguez,"alejandro ""topo"" rodriguez",m,buenos aires,1,2,2019-12-10,2023-12-09
+hcdn2775,ramiro,gutierrez,ramiro gutierrez,m,buenos aires,1,2,2019-12-10,2027-12-09
+hcdn2776,maria rosa,martinez,maria rosa martinez,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2777,martin antonio,berhongaray,martin antonio berhongaray,m,la pampa,1,2,2019-12-10,2023-12-09
+hcdn2778,marcelo pablo,casaretto,marcelo pablo casaretto,m,entre rios,1,1,2019-12-10,2023-12-09
+hcdn2779,emiliano benjamin,yacobitti,emiliano benjamin yacobitti,m,ciudad de buenos aires,1,2,2019-12-10,2023-12-09
+hcdn2780,sergio guillermo,casas,sergio guillermo casas,m,la rioja,1,2,2019-12-10,2027-12-09
+hcdn2781,gustavo rene,hein,gustavo rene hein,m,entre rios,1,1,2019-12-10,2023-12-09
+hcdn2782,virginia,cornejo,virginia cornejo,f,salta,1,2,2019-12-10,2023-12-09
+hcdn2783,federico,frigerio,federico frigerio,m,tierra del fuego,1,1,2019-12-10,2023-12-09
+hcdn2784,maria graciela,parola,maria graciela parola,f,formosa,1,2,2019-12-10,2027-12-09
+hcdn2785,alejandro,cacace,alejandro cacace,m,san luis,1,2,2019-12-10,2023-12-09
+hcdn2786,ignacio agustin,torres,ignacio agustin torres,m,chubut,1,3,2019-12-10,2023-12-09
+hcdn2787,maximiliano,ferraro,maximiliano ferraro,m,ciudad de buenos aires,1,3,2019-12-10,2027-12-09
+hcdn2788,alejandra del huerto,obeid,alejandra del huerto obeid,f,santa fe,1,1,2019-12-10,2023-12-09
+hcdn2789,german pedro,martinez,german pedro martinez,m,santa fe,1,2,2019-12-10,2027-12-09
+hcdn2790,felipe,alvarez,felipe alvarez,m,la rioja,1,3,2019-12-10,2023-12-09
+hcdn2791,dante,lopez rodriguez,dante lopez rodriguez,m,catamarca,1,2,2017-12-10,2025-12-09
+hcdn2792,mario,leito,mario leito,m,tucuman,1,1,2019-12-10,2023-12-09
+hcdn2793,federico,angelini,federico angelini,m,santa fe,1,1,2019-12-10,2023-12-09
+hcdn2794,alvaro,de lamadrid,alvaro de lamadrid,m,ciudad de buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2795,maria lujan,rey,maria lujan rey,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2796,susana graciela,landriscini,susana graciela landriscini,f,rio negro,1,1,2019-12-10,2023-12-09
+hcdn2797,camila,crescimbeni,camila crescimbeni,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2798,daniela marina,vilar,daniela marina vilar,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2799,aldo,leiva,aldo leiva,m,chaco,1,2,2019-12-10,2027-12-09
+hcdn2800,lia veronica,caliva,lia veronica caliva,f,salta,1,1,2019-12-10,2023-12-09
+hcdn2801,humberto marcelo,orrego,humberto marcelo orrego,m,san juan,1,1,2019-12-10,2023-12-09
+hcdn2802,alejandro daniel,bermejo,alejandro daniel bermejo,m,mendoza,1,1,2019-12-10,2023-12-09
+hcdn2803,gerardo,cipolini,gerardo cipolini,m,chaco,1,2,2019-12-10,2027-12-09
+hcdn2804,itai,hagman,itai hagman,m,ciudad de buenos aires,1,2,2019-12-10,2029-12-09
+hcdn2805,juan emilio,ameri,juan emilio ameri,m,salta,1,1,2017-12-10,2021-12-09
+hcdn2806,domingo luis,amaya,domingo luis amaya,m,tucuman,1,2,2019-12-10,2023-12-09
+hcdn2807,ruben,manzi,ruben manzi,m,catamarca,1,1,2019-12-10,2023-12-09
+hcdn2808,maria luisa,montoto,maria luisa montoto,f,santiago del estero,1,2,2017-12-10,2025-12-09
+hcdn2809,maria de las mercedes,joury,maria de las mercedes joury,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2810,monica,frade,monica frade,f,buenos aires,1,3,2019-12-10,2027-12-09
+hcdn2811,sebastian nicolas,salvador,sebastian nicolas salvador,m,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2812,sebastian,garcia de luca,sebastian garcia de luca,m,buenos aires,1,2,2019-12-10,2023-12-09
+hcdn2813,luis,di giacomo,luis di giacomo,m,rio negro,1,1,2019-12-10,2023-12-09
+hcdn2814,ximena,garcia,ximena garcia,f,santa fe,1,1,2019-12-10,2023-12-09
+hcdn2815,eduardo,fernandez,eduardo fernandez,m,cordoba,1,1,2019-12-10,2023-12-09
+hcdn2816,dolores,martinez,dolores martinez,f,ciudad de buenos aires,1,2,2019-12-10,2023-12-09
+hcdn2817,nancy,sand,nancy sand,f,corrientes,1,2,2019-12-10,2027-12-09
+hcdn2818,jorge,vara,jorge vara,m,corrientes,1,1,2019-12-10,2023-12-09
+hcdn2819,daniel julio,ferreyra,daniel julio ferreyra,m,jujuy,1,1,2019-12-10,2023-12-09
+hcdn2820,dina,rezinovsky,dina rezinovsky,f,ciudad de buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2821,paula andrea,penacca,paula andrea penacca,f,ciudad de buenos aires,1,2,2019-12-10,2027-12-09
+hcdn2822,ricardo,daives,ricardo daives,m,santiago del estero,1,2,2019-12-10,2027-12-09
+hcdn2823,mariana,zuvic,mariana zuvic,f,ciudad de buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2824,ingrid,jetter,ingrid jetter,f,corrientes,1,1,2019-12-10,2023-12-09
+hcdn2825,eduardo felix,valdes,eduardo felix valdes,m,ciudad de buenos aires,1,2,2019-12-10,2027-12-09
+hcdn2826,liliana patricia,yambrun,liliana patricia yambrun,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2827,laura carolina,castets,laura carolina castets,f,santa fe,1,2,2019-12-10,2023-12-09
+hcdn2828,mariana,stilman,mariana stilman,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2829,estela,hernandez,estela hernandez,f,chubut,1,1,2019-12-10,2023-12-09
+hcdn2830,paola,vessvessian,paola vessvessian,f,santa cruz,1,1,2019-12-10,2023-12-09
+hcdn2831,santiago,cafiero,santiago cafiero,m,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn2844,federico,fagioli,federico fagioli,m,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2845,nicolas,rodriguez saa,nicolas rodriguez saa,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2846,marcelo,koenig,marcelo koenig,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2847,esteban mateo,bogdanich,esteban mateo bogdanich,m,santa fe,1,1,2017-12-10,2021-12-09
+hcdn2848,claudia gabriela,marquez,claudia gabriela marquez,f,cordoba,1,1,2017-12-10,2021-12-09
+hcdn2849,ayelen,sposito,ayelen sposito,f,rio negro,1,1,2017-12-10,2021-12-09
+hcdn2850,francisco,guevara,francisco guevara,m,san juan,1,1,2017-12-10,2021-12-09
+hcdn2851,jimena,lopez,jimena lopez,f,buenos aires,1,2,2019-12-10,2029-12-09
+hcdn2852,hector,fernandez,hector fernandez,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2853,nelly ramona,daldovo,nelly ramona daldovo,f,formosa,1,1,2019-12-10,2023-12-09
+hcdn2854,romina,uhrig,romina uhrig,f,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2856,carolina,yutrovic,carolina yutrovic,f,tierra del fuego,1,2,2017-12-10,2025-12-09
+hcdn2857,patricia,mounier,patricia mounier,f,santa fe,1,1,2017-12-10,2021-12-09
+hcdn2859,juan carlos,alderete,juan carlos alderete,m,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2860,gisela,marziotta,gisela marziotta,f,ciudad de buenos aires,1,2,2017-12-10,2025-12-09
+hcdn2861,adriana,caceres,adriana caceres,f,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2862,lisandro,bormioli,lisandro bormioli,m,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2863,guillermo oscar,carnaghi,guillermo oscar carnaghi,m,neuquen,1,1,2019-12-10,2023-12-09
+hcdn2864,alcira elsa,figueroa,alcira elsa figueroa,f,salta,1,1,2017-12-10,2021-12-09
+hcdn2866,jorge guillermo,veron,jorge guillermo veron,m,santa cruz,1,1,2019-12-10,2023-12-09
+hcdn2867,carlos,ortega,carlos ortega,m,buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2870,pedro cristian,dantas,pedro cristian dantas,m,rio negro,1,1,2019-12-10,2023-12-09
+hcdn2871,eber albano,perez plaza,eber albano perez plaza,m,mendoza,1,1,2019-12-10,2023-12-09
+hcdn2876,lucio,yapor,lucio yapor,m,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2877,gustavo fernando,lopez,gustavo fernando lopez,m,ciudad de buenos aires,1,1,2017-12-10,2021-12-09
+hcdn2878,natalia marcela,souto,natalia marcela souto,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn2879,julieta,marcolli,julieta marcolli,f,catamarca,1,1,2017-12-10,2021-12-09
+hcdn2880,javier gerardo,milei,javier gerardo milei,m,ciudad de buenos aires,1,1,2021-12-10,2025-12-09
+hcdn2881,gabriela,besana,gabriela besana,f,buenos aires,1,1,2021-12-10,2025-12-09
+hcdn2882,rolando,figueroa,rolando figueroa,m,neuquen,1,1,2021-12-10,2025-12-09
+hcdn2883,silvia,sayago,silvia sayago,f,santiago del estero,1,1,2021-12-10,2025-12-09
+hcdn2884,emiliano,estrada,emiliano estrada,m,salta,1,2,2021-12-10,2025-12-09
+hcdn2885,maria luisa,chomiak,maria luisa chomiak,f,chaco,1,2,2021-12-10,2025-12-09
+hcdn2886,tomas,ledesma,tomas ledesma,m,entre rios,1,2,2021-12-10,2025-12-09
+hcdn2887,roberto antonio,sanchez,roberto antonio sanchez,m,tucuman,1,2,2021-12-10,2025-12-09
+hcdn2888,germana,figueroa casas,germana figueroa casas,f,santa fe,1,1,2021-12-10,2025-12-09
+hcdn2889,eduardo,toniolli,eduardo toniolli,m,santa fe,1,2,2021-12-10,2025-12-09
+hcdn2891,monica,fein,monica fein,f,santa fe,1,4,2021-12-10,2025-12-09
+hcdn2892,leandro,santoro,leandro santoro,m,ciudad de buenos aires,1,2,2021-12-10,2025-12-09
+hcdn2893,marcela,antola,marcela antola,f,entre rios,1,3,2021-12-10,2025-12-09
+hcdn2894,marcela,coli,marcela coli,f,la pampa,1,3,2021-12-10,2025-12-09
+hcdn2895,danya,tavela,danya tavela,f,buenos aires,1,3,2021-12-10,2025-12-09
+hcdn2896,victoria,tolosa paz,victoria tolosa paz,f,buenos aires,1,2,2021-12-10,2027-12-09
+hcdn2897,pedro jorge,galimberti,pedro jorge galimberti,m,entre rios,1,2,2021-12-10,2025-12-09
+hcdn2898,ricardo hipolito,lopez murphy,ricardo hipolito lopez murphy,m,ciudad de buenos aires,1,4,2021-12-10,2025-12-09
+hcdn2899,brenda,vargas matyi,brenda vargas matyi,f,buenos aires,1,2,2021-12-10,2025-12-09
+hcdn2900,carlos raul,zapata,carlos raul zapata,m,salta,1,2,2021-12-10,2029-12-09
+hcdn2901,jose luis,espert,jose luis espert,m,buenos aires,1,2,2021-12-10,2025-12-09
+hcdn2902,gabriela,pedrali,gabriela pedrali,f,la rioja,1,2,2021-12-10,2029-12-09
+hcdn2903,agustin,fernandez,agustin fernandez,m,tucuman,1,3,2021-12-10,2025-12-09
+hcdn2904,sergio omar,palazzo,sergio omar palazzo,m,buenos aires,1,2,2021-12-10,2029-12-09
+hcdn2905,agustina lucrecia,propato,agustina lucrecia propato,f,buenos aires,1,2,2021-12-10,2029-12-09
+hcdn2906,mario,barletta,mario barletta,m,santa fe,1,3,2021-12-10,2025-12-09
+hcdn2907,tanya,bertoldi,tanya bertoldi,f,neuquen,1,2,2021-12-10,2025-12-09
+hcdn2908,facundo,manes,facundo manes,m,buenos aires,1,3,2021-12-10,2025-12-09
+hcdn2909,paula,omodeo,paula omodeo,f,tucuman,1,3,2021-12-10,2025-12-09
+hcdn2910,ignacio,garcia aresca,ignacio garcia aresca,m,cordoba,1,5,2021-12-10,2029-12-09
+hcdn2911,leila,chaher,leila chaher,f,jujuy,1,2,2021-12-10,2025-12-09
+hcdn2912,eugenia,alianiello,eugenia alianiello,f,chubut,1,2,2021-12-10,2025-12-09
+hcdn2913,victoria,borrego,victoria borrego,f,buenos aires,1,3,2021-12-10,2025-12-09
+hcdn2914,maria,sotolano,maria sotolano,f,buenos aires,1,1,2021-12-10,2025-12-09
+hcdn2915,julio,pereyra,julio pereyra,m,buenos aires,1,2,2021-12-10,2025-12-09
+hcdn2916,sabrina,ajmechet,sabrina ajmechet,f,ciudad de buenos aires,1,2,2021-12-10,2029-12-09
+hcdn2917,adolfo,bermejo,adolfo bermejo,m,mendoza,1,2,2021-12-10,2025-12-09
+hcdn2918,maria jose,zangla,maria jose zangla,f,san luis,1,1,2021-12-10,2025-12-09
+hcdn2919,gabriel felipe,chumpitaz,gabriel felipe chumpitaz,m,santa fe,1,2,2021-12-10,2025-12-09
+hcdn2920,maria victoria,tejeda,maria victoria tejeda,f,santa fe,1,1,2021-12-10,2025-12-09
+hcdn2921,ana fabiola,aubone,ana fabiola aubone,f,san juan,1,2,2021-12-10,2025-12-09
+hcdn2922,liliana,paponet,liliana paponet,f,mendoza,1,2,2021-12-10,2025-12-09
+hcdn2923,fernando,carbajal,fernando carbajal,m,formosa,1,3,2021-12-10,2025-12-09
+hcdn2924,anibal,tortoriello,anibal tortoriello,m,rio negro,1,2,2021-12-10,2029-12-09
+hcdn2925,margarita,stolbizer,margarita stolbizer,f,buenos aires,1,3,2021-12-10,2025-12-09
+hcdn2926,daniel,gollan,daniel gollan,m,buenos aires,1,2,2021-12-10,2025-12-09
+hcdn2927,francisco,monti,francisco monti,m,catamarca,1,4,2021-12-10,2025-12-09
+hcdn2928,natalia,de la sota,natalia de la sota,f,cordoba,1,5,2021-12-10,2029-12-09
+hcdn2929,juan carlos,polini,juan carlos polini,m,chaco,1,3,2021-12-10,2025-12-09
+hcdn2930,pablo,cervi,pablo cervi,m,neuquen,1,4,2021-12-10,2025-12-09
+hcdn2931,rossana,chahla,rossana chahla,f,tucuman,1,1,2021-12-10,2025-12-09
+hcdn2932,gustavo,bouhid,gustavo bouhid,m,jujuy,1,1,2021-12-10,2025-12-09
+hcdn2933,victoria,villarruel,victoria villarruel,f,ciudad de buenos aires,1,1,2021-12-10,2025-12-09
+hcdn2934,martin,arjol,martin arjol,m,misiones,1,4,2021-12-10,2025-12-09
+hcdn2935,alejandro,vilca,alejandro vilca,m,jujuy,1,4,2021-12-10,2025-12-09
+hcdn2936,monica,litza,monica litza,f,buenos aires,1,2,2021-12-10,2025-12-09
+hcdn2937,constanza maria,alonso,constanza maria alonso,f,buenos aires,1,2,2021-12-10,2025-12-09
+hcdn2938,alvaro,martinez,alvaro martinez,m,mendoza,1,3,2021-12-10,2029-12-09
+hcdn2939,gustavo,santos,gustavo santos,m,cordoba,1,1,2021-12-10,2025-12-09
+hcdn2940,carolina,piparo,carolina piparo,f,buenos aires,1,3,2021-12-10,2025-12-09
+hcdn2941,florencia,klipauka lewtak,florencia klipauka lewtak,f,misiones,1,4,2021-12-10,2025-12-09
+hcdn2942,rodrigo,de loredo,rodrigo de loredo,m,cordoba,1,2,2021-12-10,2025-12-09
+hcdn2943,martin alberto,tetaz,martin alberto tetaz,m,ciudad de buenos aires,1,2,2021-12-10,2025-12-09
+hcdn2944,varinia lis,marin,varinia lis marin,f,la pampa,1,2,2021-12-10,2029-12-09
+hcdn2945,marilu,quiroz,marilu quiroz,f,chaco,1,1,2021-12-10,2025-12-09
+hcdn2946,pamela,calletti,pamela calletti,f,salta,1,2,2021-12-10,2025-12-09
+hcdn2947,karina ethel,bachey,karina ethel bachey,f,san luis,1,2,2021-12-10,2025-12-09
+hcdn2948,magali,mastaler,magali mastaler,f,santa fe,1,2,2021-12-10,2025-12-09
+hcdn2949,ricardo,herrera,ricardo herrera,m,la rioja,1,2,2021-12-10,2025-12-09
+hcdn2950,rogelio,iparraguirre,rogelio iparraguirre,m,buenos aires,1,2,2021-12-10,2025-12-09
+hcdn2951,diego,santilli,diego santilli,m,buenos aires,1,1,2021-12-10,2025-12-09
+hcdn2952,ana clara,romero,ana clara romero,f,chubut,1,1,2021-12-10,2025-12-09
+hcdn2953,maria eugenia,vidal,maria eugenia vidal,f,ciudad de buenos aires,1,1,2021-12-10,2025-12-09
+hcdn2954,agustin,domingo,agustin domingo,m,rio negro,1,2,2021-12-10,2025-12-09
+hcdn2955,alejandro,finocchiaro,alejandro finocchiaro,m,buenos aires,1,1,2021-12-10,2029-12-09
+hcdn2956,gabriela,brouwer de koning,gabriela brouwer de koning,f,cordoba,1,2,2021-12-10,2025-12-09
+hcdn2957,claudio orlando,vidal,claudio orlando vidal,m,santa cruz,1,1,2021-12-10,2025-12-09
+hcdn2958,susana alicia,laciar,susana alicia laciar,f,san juan,1,1,2021-12-10,2025-12-09
+hcdn2959,manuel ignacio,aguirre,manuel ignacio aguirre,m,corrientes,1,3,2021-12-10,2025-12-09
+hcdn2976,natalia,zaracho,natalia zaracho,f,buenos aires,1,2,2019-12-10,2027-12-09
+hcdn2977,anahi,costa,anahi costa,f,catamarca,1,1,2019-12-10,2023-12-09
+hcdn2979,gustavo carlos miguel,gonzalez,gustavo carlos miguel gonzalez,m,santa cruz,1,2,2021-12-10,2025-12-09
+hcdn2980,nilda,moyano,nilda moyano,f,santiago del estero,1,2,2021-12-10,2025-12-09
+hcdn2981,matias,taccetta,matias taccetta,m,chubut,1,1,2019-12-10,2023-12-09
+hcdn2982,fabian antonio,borda,fabian antonio borda,m,corrientes,1,1,2019-12-10,2023-12-09
+hcdn2983,lisandro,nieri,lisandro nieri,m,mendoza,1,2,2019-12-10,2027-12-09
+hcdn2984,marcos gustavo,carasso,marcos gustavo carasso,m,cordoba,1,1,2019-12-10,2023-12-09
+hcdn2985,carlos alberto,fernandez,carlos alberto fernandez,m,misiones,1,2,2021-12-10,2025-12-09
+hcdn2986,natalia,zabala chacur,natalia zabala chacur,f,san luis,1,2,2021-12-10,2025-12-09
+hcdn3007,juan,marino,juan marino,m,buenos aires,1,2,2019-12-10,2027-12-09
+hcdn3008,micaela,moran,micaela moran,f,buenos aires,1,2,2021-12-10,2025-12-09
+hcdn3012,kelly,olmos,kelly olmos,f,ciudad de buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3014,carolina natalia,arricau,carolina natalia arricau,f,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn3015,gabriel sebastian,mraida,gabriel sebastian mraida,m,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn3016,natalia silvina,sarapura,natalia silvina sarapura,f,jujuy,1,2,2021-12-10,2025-12-09
+hcdn3017,santiago eugenio,espil,santiago eugenio espil,m,buenos aires,1,1,2019-12-10,2023-12-09
+hcdn3018,oscar,agost carreño,oscar agost carreño,m,cordoba,1,4,2021-12-10,2025-12-09
+hcdn3019,carlos,cantero,carlos cantero,m,jujuy,1,1,2019-12-10,2023-12-09
+hcdn3020,elia marina,fernandez,elia marina fernandez,f,tucuman,1,3,2021-12-10,2027-12-09
+hcdn3021,marcela,herrera,marcela herrera,f,tucuman,1,1,2019-12-10,2023-12-09
+hcdn3022,alberto gustavo,arancibia rodriguez,alberto gustavo arancibia rodriguez,m,san luis,1,4,2021-12-10,2025-12-09
+hcdn3023,maria fernanda,araujo,maria fernanda araujo,f,ciudad de buenos aires,1,1,2021-12-10,2025-12-09
+hcdn3024,nicolas,emma,nicolas emma,m,ciudad de buenos aires,1,1,2021-12-10,2029-12-09
+hcdn3025,osvaldo,llancafilo,osvaldo llancafilo,m,neuquen,1,2,2021-12-10,2025-12-09
+hcdn3026,melina,giorgi,melina giorgi,f,santa fe,1,2,2021-12-10,2025-12-09
+hcdn3028,martin,aveiro,martin aveiro,m,mendoza,1,1,2023-12-10,2027-12-09
+hcdn3029,lisandro,almiron,lisandro almiron,m,corrientes,1,1,2023-12-10,2027-12-09
+hcdn3030,alberto,arrua,alberto arrua,m,misiones,1,1,2023-12-10,2027-12-09
+hcdn3031,daniel,vancsik,daniel vancsik,m,misiones,1,1,2023-12-10,2027-12-09
+hcdn3032,damian,arabia,damian arabia,m,ciudad de buenos aires,1,2,2023-12-10,2027-12-09
+hcdn3033,julia,strada,julia strada,f,buenos aires,1,2,2023-12-10,2027-12-09
+hcdn3034,mariela,coletta,mariela coletta,f,ciudad de buenos aires,1,3,2023-12-10,2027-12-09
+hcdn3035,gustavo,bordet,gustavo bordet,m,entre rios,1,1,2023-12-10,2027-12-09
+hcdn3036,yamila,ruiz,yamila ruiz,f,misiones,1,1,2023-12-10,2027-12-09
+hcdn3037,patricia,vasquez,patricia vasquez,f,buenos aires,1,2,2023-12-10,2027-12-09
+hcdn3038,yolanda,vega,yolanda vega,f,salta,1,1,2023-12-10,2027-12-09
+hcdn3039,juliana,santillan juarez brahim,juliana santillan juarez brahim,f,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3040,jose,peluc,jose peluc,m,san juan,1,1,2023-12-10,2027-12-09
+hcdn3041,romina,diez,romina diez,f,santa fe,1,1,2023-12-10,2027-12-09
+hcdn3042,gabriel,bornoroni,gabriel bornoroni,m,cordoba,1,1,2023-12-10,2027-12-09
+hcdn3043,silvana,giudici,silvana giudici,f,ciudad de buenos aires,1,2,2023-12-10,2027-12-09
+hcdn3044,mariano,campero,mariano campero,m,tucuman,1,4,2023-12-10,2027-12-09
+hcdn3045,roxana,monzon,roxana monzon,f,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3046,francisco,morchio,francisco morchio,m,entre rios,1,4,2023-12-10,2027-12-09
+hcdn3047,jorge neri,araujo hernandez,jorge neri araujo hernandez,m,tierra del fuego,1,1,2023-12-10,2027-12-09
+hcdn3048,alejandro,bongiovanni,alejandro bongiovanni,m,santa fe,1,2,2023-12-10,2027-12-09
+hcdn3049,martin,ardohain,martin ardohain,m,la pampa,1,1,2023-12-10,2027-12-09
+hcdn3050,nancy viviana,picon martinez,nancy viviana picon martinez,f,san juan,1,1,2023-12-10,2027-12-09
+hcdn3051,luis albino,picat,luis albino picat,m,cordoba,1,4,2023-12-10,2027-12-09
+hcdn3052,fernanda,avila,fernanda avila,f,catamarca,1,2,2023-12-10,2027-12-09
+hcdn3053,jose,glinski,jose glinski,m,chubut,1,1,2023-12-10,2027-12-09
+hcdn3054,sabrina,selva,sabrina selva,f,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3055,gerardo gustavo,gonzalez,gerardo gustavo gonzalez,m,formosa,1,4,2023-12-10,2027-12-09
+hcdn3056,matias,molle,matias molle,m,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3057,daiana,fernandez molero,daiana fernandez molero,f,ciudad de buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3058,belen,avico,belen avico,f,cordoba,1,2,2023-12-10,2027-12-09
+hcdn3059,lourdes micaela,arrieta,lourdes micaela arrieta,f,mendoza,1,9,2023-12-10,2027-12-09
+hcdn3060,carlos,d'alessandro,carlos d'alessandro,m,san luis,1,2,2023-12-10,2027-12-09
+hcdn3061,marcela marina,pagano,marcela marina pagano,f,buenos aires,1,3,2023-12-10,2027-12-09
+hcdn3062,jose,gomez,jose gomez,m,santiago del estero,1,1,2023-12-10,2027-12-09
+hcdn3063,nadia,marquez,nadia marquez,f,neuquen,1,1,2023-12-10,2027-12-09
+hcdn3064,bertie,benegas lynch,bertie benegas lynch,m,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3065,santiago,santurio,santiago santurio,m,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3066,christian,castillo,christian castillo,m,buenos aires,1,3,2023-12-10,2027-12-09
+hcdn3067,alfredo,vallejos,alfredo vallejos,m,corrientes,1,1,2023-12-10,2027-12-09
+hcdn3068,pablo,juliano,pablo juliano,m,buenos aires,1,3,2023-12-10,2027-12-09
+hcdn3069,maria celeste,ponce,maria celeste ponce,f,cordoba,1,1,2023-12-10,2027-12-09
+hcdn3070,mercedes,llano,mercedes llano,f,mendoza,1,1,2023-12-10,2027-12-09
+hcdn3071,nicolas,mayoraz,nicolas mayoraz,m,santa fe,1,1,2023-12-10,2027-12-09
+hcdn3072,facundo,correa llano,facundo correa llano,m,mendoza,1,1,2023-12-10,2027-12-09
+hcdn3073,oscar,zago,oscar zago,m,ciudad de buenos aires,1,2,2023-12-10,2027-12-09
+hcdn3074,diego a.,giuliano,diego a. giuliano,m,santa fe,1,1,2023-12-10,2027-12-09
+hcdn3075,lorena,macyszyn,lorena macyszyn,f,buenos aires,1,2,2023-12-10,2027-12-09
+hcdn3076,sebastian,noblega,sebastian noblega,m,catamarca,1,2,2023-12-10,2027-12-09
+hcdn3077,christian alejandro,zulli,christian alejandro zulli,m,corrientes,1,1,2023-12-10,2027-12-09
+hcdn3078,luciana,potenza,luciana potenza,f,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3079,emmanuel,bianchetti,emmanuel bianchetti,m,misiones,1,1,2023-12-10,2027-12-09
+hcdn3080,sergio eduardo,capozzi,sergio eduardo capozzi,m,rio negro,1,2,2023-12-10,2027-12-09
+hcdn3081,mario,manrique,mario manrique,m,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3082,lorena,pokoik,lorena pokoik,f,ciudad de buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3083,pablo,todero,pablo todero,m,neuquen,1,1,2023-12-10,2027-12-09
+hcdn3084,lilia,lemoine,lilia lemoine,f,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3085,jorge,chica,jorge chica,m,san juan,1,1,2023-12-10,2027-12-09
+hcdn3086,martin,yeza,martin yeza,m,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3087,andrea,freites,andrea freites,f,tierra del fuego,1,1,2023-12-10,2027-12-09
+hcdn3088,rocio,bonacci,rocio bonacci,f,santa fe,1,1,2023-12-10,2027-12-09
+hcdn3089,eduardo,falcone,eduardo falcone,m,buenos aires,1,2,2023-12-10,2027-12-09
+hcdn3090,florencia,carignano,florencia carignano,f,santa fe,1,1,2023-12-10,2027-12-09
+hcdn3091,lorena,villaverde,lorena villaverde,f,rio negro,1,1,2023-12-10,2027-12-09
+hcdn3092,maria cecilia,ibañez,maria cecilia ibañez,f,cordoba,1,2,2023-12-10,2027-12-09
+hcdn3093,celia,campitelli,celia campitelli,f,santiago del estero,1,1,2023-12-10,2027-12-09
+hcdn3094,jorge antonio,avila,jorge antonio avila,m,chubut,1,4,2023-12-10,2027-12-09
+hcdn3095,guillermo,montenegro,guillermo montenegro,m,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3096,emilia,orozco,emilia orozco,f,salta,1,2,2023-12-10,2027-12-09
+hcdn3097,manuel,quintar,manuel quintar,m,jujuy,1,1,2023-12-10,2027-12-09
+hcdn3098,gerardo,huesen,gerardo huesen,m,tucuman,1,1,2023-12-10,2027-12-09
+hcdn3099,jose luis,garrido,jose luis garrido,m,santa cruz,1,1,2023-12-10,2027-12-09
+hcdn3100,pablo,outes,pablo outes,m,salta,1,1,2023-12-10,2027-12-09
+hcdn3101,maria florencia,de sensi,maria florencia de sensi,f,buenos aires,1,1,2021-12-10,2029-12-09
+hcdn3102,cesar,treffinger,cesar treffinger,m,chubut,1,1,2023-12-10,2027-12-09
+hcdn3103,julio,moreno ovalle,julio moreno ovalle,m,salta,1,2,2023-12-10,2027-12-09
+hcdn3104,maria de los angeles,moreno,maria de los angeles moreno,f,san juan,1,2,2021-12-10,2025-12-09
+hcdn3105,santiago,pauli,santiago pauli,m,tierra del fuego,1,1,2023-12-10,2027-12-09
+hcdn3106,carlos,garcia,carlos garcia,m,chaco,1,1,2023-12-10,2027-12-09
+hcdn3107,martin,menem,martin menem,m,la rioja,1,1,2023-12-10,2027-12-09
+hcdn3108,esteban,paulon,esteban paulon,m,santa fe,1,4,2023-12-10,2027-12-09
+hcdn3109,alejandra,torres,alejandra torres,f,cordoba,1,4,2023-12-10,2027-12-09
+hcdn3110,veronica,razzini,veronica razzini,f,santa fe,1,3,2023-12-10,2027-12-09
+hcdn3111,beltran,benedit,beltran benedit,m,entre rios,1,1,2023-12-10,2027-12-09
+hcdn3139,alida,ferreyra,alida ferreyra,f,ciudad de buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3140,"ernesto ""pipi""",ali,"ernesto ""pipi"" ali",m,san luis,1,1,2023-12-10,2027-12-09
+hcdn3141,vanina,biasi,vanina biasi,f,ciudad de buenos aires,1,1,2021-12-10,2025-12-09
+hcdn3142,jose federico,tournier,jose federico tournier,m,corrientes,1,4,2023-12-10,2027-12-09
+hcdn3143,nancy,ballejos,nancy ballejos,f,entre rios,1,1,2021-12-10,2025-12-09
+hcdn3146,ricardo,garramuño,ricardo garramuño,m,tierra del fuego,1,1,2021-12-10,2025-12-09
+hcdn3148,javier,sanchez wrba,javier sanchez wrba,m,buenos aires,1,1,2021-12-10,2029-12-09
+hcdn3149,vilma,ripoll,vilma ripoll,f,buenos aires,1,2,2021-12-10,2025-12-09
+hcdn3150,mercedes,de mendieta,mercedes de mendieta,f,ciudad de buenos aires,1,2,2021-12-10,2025-12-09
+hcdn3151,c. facundo,prades,c. facundo prades,m,santa cruz,1,1,2021-12-10,2025-12-09
+hcdn3157,barbara,andreussi,barbara andreussi,f,jujuy,1,1,2025-12-10,2029-12-09
+hcdn3158,claudia maria,palladino,claudia maria palladino,f,catamarca,1,1,2025-12-10,2029-12-09
+hcdn3159,valentina,ravera,valentina ravera,f,santa fe,1,1,2025-12-10,2029-12-09
+hcdn3160,agustin,pellegrini,agustin pellegrini,m,santa fe,1,1,2025-12-10,2029-12-09
+hcdn3161,johanna sabrina,longo,johanna sabrina longo,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3162,soledad,molinuevo,soledad molinuevo,f,tucuman,1,1,2025-12-10,2029-12-09
+hcdn3163,laura,soldano,laura soldano,f,cordoba,1,1,2025-12-10,2029-12-09
+hcdn3164,alejandro,carrancio,alejandro carrancio,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3165,gladys,humenuk,gladys humenuk,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3166,guillermo cesar,aguero,guillermo cesar aguero,m,chaco,1,1,2025-12-10,2029-12-09
+hcdn3167,santiago luis,roberto,santiago luis roberto,m,ciudad de buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3168,cecilia,lopez pasquali,cecilia lopez pasquali,f,santiago del estero,1,1,2025-12-10,2029-12-09
+hcdn3169,antonela,giampieri,antonela giampieri,f,ciudad de buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3170,maria luisa,gonzalez estevarena,maria luisa gonzalez estevarena,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3171,carlos alberto,almena,carlos alberto almena,m,san luis,1,1,2025-12-10,2029-12-09
+hcdn3172,enrique,lluch,enrique lluch,m,cordoba,1,1,2025-12-10,2029-12-09
+hcdn3173,m. elena,velazquez,m. elena velazquez,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3174,lucia,campora,lucia campora,f,ciudad de buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3175,karen,reichardt,karen reichardt,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3176,abelardo,ferran,abelardo ferran,m,la pampa,1,1,2025-12-10,2029-12-09
+hcdn3177,miriam,niveyro,miriam niveyro,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3178,claudio,alvarez,claudio alvarez,m,san luis,1,2,2023-12-10,2027-12-09
+hcdn3179,andrea fernanda,vera,andrea fernanda vera,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3180,nicolas alfredo,trotta,nicolas alfredo trotta,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3181,sebastian,pareja,sebastian pareja,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3182,maria ines,zigaran,maria ines zigaran,f,jujuy,1,1,2025-12-10,2029-12-09
+hcdn3183,alejandrina,borgatta,alejandrina borgatta,f,santa fe,1,1,2025-12-10,2029-12-09
+hcdn3184,ruben dario,torres,ruben dario torres,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3185,cristian,andino,cristian andino,m,san juan,1,1,2025-12-10,2029-12-09
+hcdn3186,diogenes ignacio,gonzalez,diogenes ignacio gonzalez,m,corrientes,1,1,2025-12-10,2029-12-09
+hcdn3187,juan pablo,montenegro,juan pablo montenegro,m,santa fe,1,1,2025-12-10,2029-12-09
+hcdn3188,maria gabriela,flores,maria gabriela flores,f,salta,1,1,2025-12-10,2029-12-09
+hcdn3189,andres,leone,andres leone,m,ciudad de buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3190,eliana,bruno,eliana bruno,f,salta,1,1,2023-12-10,2027-12-09
+hcdn3191,jorge,mukdise,jorge mukdise,m,santiago del estero,1,1,2025-12-10,2029-12-09
+hcdn3192,juan,grabois,juan grabois,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3193,sergio,dolce,sergio dolce,m,chaco,1,1,2025-12-10,2029-12-09
+hcdn3194,fernanda,diaz,fernanda diaz,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3195,dario,schneider,dario schneider,m,entre rios,1,1,2025-12-10,2029-12-09
+hcdn3196,karina,maureira,karina maureira,f,neuquen,1,1,2025-12-10,2029-12-09
+hcdn3197,javier,noguera,javier noguera,m,tucuman,1,1,2025-12-10,2029-12-09
+hcdn3198,julieta marisol,campo,julieta marisol campo,f,chaco,1,1,2025-12-10,2029-12-09
+hcdn3199,sebastian,galmarini,sebastian galmarini,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3200,alfredo,gonzales,alfredo gonzales,m,jujuy,1,1,2025-12-10,2029-12-09
+hcdn3201,monica,becerra,monica becerra,f,san luis,1,1,2025-12-10,2029-12-09
+hcdn3202,adrian,brizuela,adrian brizuela,m,catamarca,1,1,2025-12-10,2029-12-09
+hcdn3203,joaquin,ojeda,joaquin ojeda,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3204,oscar,herrera,oscar herrera,m,misiones,1,1,2025-12-10,2029-12-09
+hcdn3205,moira,lanesan sancho,moira lanesan sancho,f,santa cruz,1,1,2025-12-10,2029-12-09
+hcdn3206,marcelo,mango,marcelo mango,m,rio negro,1,1,2023-12-10,2027-12-09
+hcdn3207,maura,gruber,maura gruber,f,misiones,1,1,2025-12-10,2029-12-09
+hcdn3208,jorge,fernandez,jorge fernandez,m,san luis,1,2,2025-12-10,2029-12-09
+hcdn3209,carolina,basualdo,carolina basualdo,f,cordoba,1,1,2025-12-10,2029-12-09
+hcdn3210,diego,hartfield,diego hartfield,m,misiones,1,1,2025-12-10,2029-12-09
+hcdn3211,rosario,goitia,rosario goitia,f,chaco,1,1,2025-12-10,2029-12-09
+hcdn3212,emir,felix,emir felix,m,mendoza,1,1,2025-12-10,2029-12-09
+hcdn3213,yamile,tomassoni,yamile tomassoni,f,santa fe,1,1,2025-12-10,2029-12-09
+hcdn3214,gino,visconti,gino visconti,m,la rioja,1,1,2025-12-10,2029-12-09
+hcdn3215,maira,frias,maira frias,f,chubut,1,1,2025-12-10,2029-12-09
+hcdn3216,adriana cristina,serquis,adriana cristina serquis,f,rio negro,1,1,2025-12-10,2029-12-09
+hcdn3217,maria virginia,gallardo,maria virginia gallardo,f,corrientes,1,1,2025-12-10,2029-12-09
+hcdn3218,guillermo,michel,guillermo michel,m,entre rios,1,1,2025-12-10,2029-12-09
+hcdn3219,pablo,farias,pablo farias,m,santa fe,1,1,2025-12-10,2029-12-09
+hcdn3220,fernanda,miño,fernanda miño,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3221,juan pablo,luque,juan pablo luque,m,chubut,1,1,2025-12-10,2029-12-09
+hcdn3222,caren,tepp,caren tepp,f,santa fe,1,1,2025-12-10,2029-12-09
+hcdn3223,marcelo,barbur,marcelo barbur,m,santiago del estero,1,1,2025-12-10,2029-12-09
+hcdn3224,marianela,marclay,marianela marclay,f,entre rios,1,1,2025-12-10,2029-12-09
+hcdn3225,giselle,castelnuovo,giselle castelnuovo,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3226,javier,andrade,javier andrade,m,ciudad de buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3227,paulo agustin,tita,paulo agustin tita,m,tierra del fuego,1,1,2025-12-10,2029-12-09
+hcdn3228,maria lorena,petrovich,maria lorena petrovich,f,buenos aires,1,1,2023-12-10,2027-12-09
+hcdn3229,gaston,riesco,gaston riesco,m,neuquen,1,1,2025-12-10,2029-12-09
+hcdn3230,sergio,figliuolo,sergio figliuolo,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3231,andres ariel,laumann,andres ariel laumann,m,entre rios,1,1,2025-12-10,2029-12-09
+hcdn3232,patricia,holzman,patricia holzman,f,ciudad de buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3233,miguel,rodriguez,miguel rodriguez,m,tierra del fuego,1,1,2025-12-10,2029-12-09
+hcdn3234,adrian,ravier,adrian ravier,m,la pampa,1,1,2025-12-10,2029-12-09
+hcdn3235,gonzalo,roca,gonzalo roca,m,cordoba,1,1,2025-12-10,2029-12-09
+hcdn3236,fernando,monguillot,fernando monguillot,m,catamarca,1,1,2025-12-10,2029-12-09
+hcdn3237,raul,hadad,raul hadad,m,corrientes,1,1,2025-12-10,2029-12-09
+hcdn3238,marina dorotea,salzmann,marina dorotea salzmann,f,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3239,hernan,urien,hernan urien,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3240,bernardo,biella,bernardo biella,m,salta,1,1,2025-12-10,2029-12-09
+hcdn3241,hugo antonio,moyano,hugo antonio moyano,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3242,nestor,pitrola,nestor pitrola,m,buenos aires,1,2,2023-12-10,2027-12-09
+hcdn3243,carlos gustavo,jaime quiroga,carlos gustavo jaime quiroga,m,san juan,1,1,2025-12-10,2029-12-09
+hcdn3244,juan carlos,molina,juan carlos molina,m,santa cruz,1,1,2025-12-10,2029-12-09
+hcdn3245,soledad,mondaca,soledad mondaca,f,neuquen,1,1,2025-12-10,2029-12-09
+hcdn3246,julieta,metral asensio,julieta metral asensio,f,mendoza,1,1,2025-12-10,2029-12-09
+hcdn3247,jairo,guzman,jairo guzman,m,santa cruz,1,1,2025-12-10,2029-12-09
+hcdn3248,alvaro,garcia,alvaro garcia,m,buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3249,federico agustin,pelli,federico agustin pelli,m,tucuman,1,1,2025-12-10,2029-12-09
+hcdn3250,marcos,patiño brizuela,marcos patiño brizuela,m,cordoba,1,1,2025-12-10,2029-12-09
+hcdn3251,gabriela luciana,muñoz,gabriela luciana muñoz,f,neuquen,1,1,2023-12-10,2027-12-09
+hcdn3252,alejandro,fargosi,alejandro fargosi,m,ciudad de buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3253,fernando,de andreis,fernando de andreis,m,ciudad de buenos aires,1,1,2025-12-10,2029-12-09
+hcdn3254,abel,chiconi,abel chiconi,m,san juan,1,1,2025-12-10,2029-12-09
+hcdn3268,atilio,basualdo,atilio basualdo,m,formosa,1,1,2025-12-10,2029-12-09
