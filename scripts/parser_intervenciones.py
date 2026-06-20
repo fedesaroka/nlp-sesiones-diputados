@@ -100,20 +100,41 @@ def process_parquet(input_path: str) -> pd.DataFrame:
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 if __name__ == '__main__':
+    import sys
+    from pathlib import Path
+
     # ── Configuración ─────────────────────────────────────────────────────
-    INPUT_DIR = Path(r"data\parquets")
     OUTPUT_DIR = Path("data")
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     # ──────────────────────────────────────────────────────────────────────
 
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    archivos = sorted(INPUT_DIR.glob("periodo_*.parquet"))
-    print(f"Parquets encontrados: {len(archivos)}\n")
+    # Si el usuario pasa argumentos (ej: data/parquets/periodo_143.parquet o *.parquet)
+    if len(sys.argv) > 1:
+        archivos = [Path(arg) for arg in sys.argv[1:]]
+    else:
+        # Fallback: buscar todos en data/parquets/
+        INPUT_DIR = Path("data/parquets")
+        archivos = sorted(INPUT_DIR.glob("periodo_*.parquet"))
+
+    # Filtrar solo archivos que existan para evitar errores si se tipea mal
+    archivos = [f for f in archivos if f.exists()]
+    
+    print(f"Parquets encontrados a procesar: {len(archivos)}\n")
+
+    if len(archivos) == 0:
+        print("Error: No se encontraron archivos para procesar. Chequeá las rutas.")
+        sys.exit(1)
 
     all_dfs = []
     for f in archivos:
         result = process_parquet(str(f))
-        all_dfs.append(result)
+        if not result.empty:
+            all_dfs.append(result)
         print(f"  {f.name}: {len(result)} intervenciones")
+
+    if not all_dfs:
+        print("\nNo se extrajo ninguna intervención de los archivos dados.")
+        sys.exit(1)
 
     combined = pd.concat(all_dfs, ignore_index=True)
     combined.to_parquet(OUTPUT_DIR / "intervenciones.parquet", index=False)
