@@ -1,2 +1,20 @@
+# ── Datos crudos y pesados (no versionar) ────────────────────────────────────
 data/intervenciones.parquet
 data/intervenciones.csv
+data/intervenciones_limpias.parquet
+data/intervenciones_con_topico.parquet
+data/parquets/
+
+# ── Artefactos de modelos y embeddings ───────────────────────────────────────
+data/embeddings_intervenciones.npy
+data/temp_chunks/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ── Entornos virtuales ────────────────────────────────────────────────────────
+.venv/
+env/
+venv/
