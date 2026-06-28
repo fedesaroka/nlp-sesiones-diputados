@@ -129,6 +129,34 @@ Los tipos restantes (Expresión en Minoría, Asamblea Legislativa, Preparatoria,
 
 ---
 
+## Experimento 4 — Diferencias temáticas por bloque político (`Fase4_Bloques_Politicos.ipynb`)
+
+### Objetivo
+Determinar si existen diferencias en el discurso parlamentario entre familias políticas (peronismo, radicalismo, centroderecha, izquierda, etc.) tanto por distribución de tópicos como por vocabulario distintivo.
+
+### Datos adicionales
+- `data/diputados_historial_limpio.csv` — historial de mandatos y bloque por diputado (desde 10/12/2007)
+- `data/bloques_familia_politica.csv` — mapeo de bloque legislativo → familia política
+
+### Metodología
+1. **JOIN apellido + fecha** — cada intervención se cruza con el historial de diputados por apellido normalizado y fecha dentro del rango de mandato. Matches ambiguos y sin match se descartan (~15%).
+2. **Heatmap** — proporción de cada tópico por familia política
+3. **Bar chart** — comparación directa de los 10 tópicos entre familias
+4. **Chi-cuadrado + V de Cramér** — test de asociación entre familia política y tópico (χ²=376.49, p≈3.4×10⁻⁴⁶, V=0.10 — efecto pequeño pero significativo)
+5. **TF-IDF por familia** — vocabulario más característico de cada sector político
+6. **Similitud de coseno** — matriz de similitud discursiva entre familias para responder: *¿izquierda y kirchnerismo hablan realmente de lo mismo?*
+
+### Alcance temporal
+2007–2026 (el historial de diputados comienza el 10/12/2007).
+
+### Visualizaciones generadas
+- `heatmap_topicos_por_familia_politica.html`
+- `barras_topicos_por_familia_politica.html`
+- `tfidf_vocabulario_por_familia_politica.html`
+- `similitud_familias_politicas.html`
+
+---
+
 ## Cómo reproducir
 
 ```bash
