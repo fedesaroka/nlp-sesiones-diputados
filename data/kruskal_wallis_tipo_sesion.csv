@@ -1,0 +1,11 @@
+topico,H,p_valor,significativo
+Agropecuario / Ganadería,22.406,5e-05,True
+Jubilaciones / Previsional,19.281,0.00024,True
+Salud / Discapacidad,10.003,0.01854,True
+Trabajo / Laboral,9.858,0.01982,True
+Defensa / Fuerzas militares,8.236,0.04138,True
+Presupuesto / Finanzas públicas,7.39,0.06045,False
+Derecho penal,7.383,0.06066,False
+Energía / Gas / Combustibles,6.827,0.07763,False
+Impuestos / Fiscal,5.887,0.11722,False
+Derechos humanos / Terrorismo,5.415,0.14381,False

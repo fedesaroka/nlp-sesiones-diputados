@@ -90,6 +90,45 @@ Todas las figuras se exportan como HTML interactivo en `notebooks/figuras/`.
 
 ---
 
+## Experimento 3 — Diferencias temáticas por tipo de sesión (`Fase3_Tipo_Sesion.ipynb`)
+
+### Objetivo
+Determinar si existen diferencias estadísticamente significativas en la distribución de tópicos según el tipo de sesión parlamentaria.
+
+### Tipos de sesión analizados
+De los 9 tipos existentes se seleccionaron los 4 con suficiente masa de datos:
+
+| Tipo | Sesiones | Intervenciones |
+|---|---|---|
+| Ordinaria | 368 | ~89.000 |
+| Especial | 219 | ~93.000 |
+| Extraordinaria Especial | 86 | ~22.000 |
+| Extraordinaria | 78 | ~18.000 |
+
+Los tipos restantes (Expresión en Minoría, Asamblea Legislativa, Preparatoria, Informativa) fueron descartados por tener pocas intervenciones por sesión o ser actos formales sin contenido temático relevante.
+
+### Metodología
+1. **EDA** — distribución de sesiones e intervenciones por tipo
+2. **Heatmap** — prevalencia de los 10 tópicos × tipo de sesión
+3. **Bar chart comparativo** — proporción de cada tópico por tipo de sesión
+4. **Kruskal-Wallis** por tópico (α = 0.05) — detecta si hay diferencias globales entre tipos
+5. **Dunn's test** (corrección Bonferroni) — identifica qué pares de tipos difieren para los tópicos significativos
+6. **Bar chart de tópicos discriminantes** — visualiza la dirección de las diferencias significativas
+
+### Resultados principales
+5 de los 10 tópicos mostraron diferencias significativas entre tipos de sesión:
+- **Agropecuario / Ganadería** — más presente en Ordinarias; menos en Especiales y Extraordinarias Especiales
+- **Jubilaciones / Previsional** — menor presencia en sesiones Especiales vs. Ordinarias
+- **Salud / Discapacidad**, **Trabajo / Laboral**, **Defensa / Fuerzas militares** — diferencias marginales
+
+### Visualizaciones generadas
+- `eda_tipos_sesion.html` — intervenciones por tipo de sesión
+- `heatmap_topicos_por_tipo_sesion.html` — heatmap completo
+- `barras_topicos_por_tipo_sesion.html` — comparación de los 10 tópicos
+- `barras_topicos_significativos_tipo_sesion.html` — solo tópicos con p < 0.05
+
+---
+
 ## Cómo reproducir
 
 ```bash
