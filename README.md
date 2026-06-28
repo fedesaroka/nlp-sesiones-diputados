@@ -15,7 +15,13 @@ nlp-sesiones-diputados/
 ├── notebooks/
 │   ├── Fase1_Modelado.ipynb        # Experimento 1: entrenamiento de modelos
 │   ├── Fase2_Evolucion_Temporal.ipynb  # Experimento 2: evolución temporal
-│   └── figuras/                    # HTMLs interactivos exportados
+│   ├── Fase3_Tipo_Sesion.ipynb     # Experimento 3: diferencias por tipo de sesión
+│   ├── Fase4_Bloques_Politicos.ipynb   # Experimento 4: diferencias por bloque político
+│   └── figuras/
+│       ├── exp1/                   # Figuras del Experimento 1
+│       ├── exp2/                   # Figuras del Experimento 2
+│       ├── exp3/                   # Figuras del Experimento 3
+│       └── exp4/                   # Figuras del Experimento 4
 ├── scripts/
 │   └── pypeline_limpieza.py        # Preprocesamiento y lematización
 └── TP1 PLN.pdf                     # Consigna del trabajo práctico
@@ -86,7 +92,7 @@ De los 190 tópicos del modelo se seleccionaron 10 temáticamente coherentes:
 4. **Heatmap por evento histórico** — prevalencia en ventana de 2 años alrededor de 9 hitos:
    Juicio a las Juntas (1985), Hiperinflación (1989), Crisis 2001, Res. 125 (2008), Matrimonio igualitario (2010), YPF (2012), IVE (2018), COVID-19 (2020), Ley Bases (2024)
 
-Todas las figuras se exportan como HTML interactivo en `notebooks/figuras/`.
+Todas las figuras se exportan como HTML interactivo en `notebooks/figuras/exp2/`.
 
 ---
 
@@ -122,10 +128,10 @@ Los tipos restantes (Expresión en Minoría, Asamblea Legislativa, Preparatoria,
 - **Salud / Discapacidad**, **Trabajo / Laboral**, **Defensa / Fuerzas militares** — diferencias marginales
 
 ### Visualizaciones generadas
-- `eda_tipos_sesion.html` — intervenciones por tipo de sesión
-- `heatmap_topicos_por_tipo_sesion.html` — heatmap completo
-- `barras_topicos_por_tipo_sesion.html` — comparación de los 10 tópicos
-- `barras_topicos_significativos_tipo_sesion.html` — solo tópicos con p < 0.05
+- `exp3/eda_tipos_sesion.html` — intervenciones por tipo de sesión
+- `exp3/heatmap_topicos_por_tipo_sesion.html` — heatmap completo
+- `exp3/barras_topicos_por_tipo_sesion.html` — comparación de los 10 tópicos
+- `exp3/barras_topicos_significativos_tipo_sesion.html` — solo tópicos con p < 0.05
 
 ---
 
@@ -150,10 +156,9 @@ Determinar si existen diferencias en el discurso parlamentario entre familias po
 2007–2026 (el historial de diputados comienza el 10/12/2007).
 
 ### Visualizaciones generadas
-- `heatmap_topicos_por_familia_politica.html`
-- `barras_topicos_por_familia_politica.html`
-- `tfidf_vocabulario_por_familia_politica.html`
-- `similitud_familias_politicas.html`
+- `exp4/heatmap_topicos_por_familia_politica.html`
+- `exp4/barras_topicos_por_familia_politica.html`
+- `exp4/tfidf_vocabulario_por_familia_politica.html`
 
 ---
 
