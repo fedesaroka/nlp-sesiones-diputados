@@ -1,5 +1,12 @@
 # NLP — Sesiones de la Cámara de Diputados de Argentina
 
+> **⚠️ Repositorio exploratorio — trabajo original**
+>
+> Este repositorio contiene el trabajo práctico original desarrollado para la materia de PLN (2026). Es un análisis exploratorio que motivó un rediseño metodológico posterior.
+>
+> El análisis mejorado —con corpus más limpio, segmentación a nivel de intervención, NMF con selección rigurosa de K y cobertura completa del corpus— se encuentra en:
+> **[fedesaroka/argentine-deputies-discursive-distance](https://github.com/fedesaroka/argentine-deputies-discursive-distance)**
+
 Análisis de Topic Modelling sobre las sesiones parlamentarias argentinas (1983–2026) usando datos del [Diario de Sesiones](https://www.diputados.gob.ar/sesiones/).
 
 ---
